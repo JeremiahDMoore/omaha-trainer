@@ -52,11 +52,31 @@ li {
   height: 100vh;
 }
 
-.green { color: green; }
-.palegreen { color: palegreen; }
-.yellow { color: yellow; }
-.orange { color: orange; }
-.red { color: red; }
+
+.green { 
+  color: green; 
+  font-size: 1.0em;
+  margin-bottom: 5px;
+  font-weight: bold;}
+.palegreen { 
+  color: palegreen; 
+  font-size: 1.0em;
+  margin-bottom: 5px;
+  font-weight: bold;}
+.yellow { 
+  color: yellow; 
+  font-size: 1.0em;
+  margin-bottom: 5px;
+  font-weight: bold;}
+.orange { 
+  color: orange; 
+  font-size: 1.0em;
+  margin-bottom: 5px;
+  font-weight: bold;}
+.red { 
+  color: red; 
+  font-size: 1.0em;
+  font-weight: bold;}
 .range-description { display: inline-block; }
 
 .button-container {
@@ -106,7 +126,6 @@ h2 {
 }
 .details {
  text-align: center;
- /* background-color: #282c34;  */
 }
 .range-description {
   display: flex;
