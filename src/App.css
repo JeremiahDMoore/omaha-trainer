@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  margin: 10%;
 }
 
 .App-logo {
@@ -35,4 +36,86 @@
   to {
     transform: rotate(360deg);
   }
+}
+body {
+  background-color: darkgrey;
+  margin: 0;
+  height: 100vh;
+}
+li {
+  list-style-type: none;
+}
+
+.display {
+  padding-top: 5%;
+  background-color: darkgrey;
+  height: 100vh;
+}
+
+.green { color: green; }
+.palegreen { color: palegreen; }
+.yellow { color: yellow; }
+.orange { color: orange; }
+.red { color: red; }
+.range-description { display: inline-block; }
+
+.button-container {
+  position: relative;
+  width: 400px;
+  height: 200px;
+  margin: 0 auto;
+  background-color: #008000;  /* Green */
+  border: 10px solid #964B00;  /* Brown */
+  border-radius: 50%;  /* Makes it an oval */
+}
+
+.button-container button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 60px;
+  height: 30px;
+  margin-top: -15px;
+}
+
+.button-container button:nth-child(1) {
+  transform: translateX(-50%) rotate(0deg) translateX(200px) rotate(0deg);
+}
+
+.button-container button:nth-child(2) {
+  transform: translateX(-50%) rotate(60deg) translateX(125px) rotate(-60deg);
+}
+
+.button-container button:nth-child(3) {
+  transform: translateX(-50%) rotate(120deg) translateX(125px) rotate(-120deg);
+}
+
+.button-container button:nth-child(4) {
+  transform: translateX(-50%) rotate(180deg) translateX(200px) rotate(-180deg);
+}
+
+.button-container button:nth-child(5) {
+  transform: translateX(-50%) rotate(240deg) translateX(125px) rotate(-240deg);
+}
+
+.button-container button:nth-child(6) {
+  transform: translateX(-50%) rotate(300deg) translateX(125px) rotate(-300deg);
+}
+h2 {
+  text-align: center;
+}
+.details {
+ text-align: center;
+ /* background-color: #282c34;  */
+}
+.range-description {
+  display: flex;
+  margin-left: 30%;
+  text-align: left;
+}
+.range-description-bold {
+  display: flex;
+  font-weight: bold;
+  margin-left: 30%;
+  text-align: left;
 }
