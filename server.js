@@ -8,8 +8,9 @@ app.use(cors());
 // Serve static files from the React app
 app.use(express.static(path.join(__dirname, 'build')));
 
-// Read the JSON file
-const handValues = JSON.parse(fs.readFileSync('handValues.json', 'utf8'));
+const jsonPath = path.join(__dirname, 'handValues.json');
+const handValues = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
+
 
 app.get('/hand-values', (req, res) => {
   const position = req.query.position;
