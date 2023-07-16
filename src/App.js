@@ -74,7 +74,7 @@ const getColorClass = (percentage) => {
           handValues.map((group, index) => (
             <li key={index}>
               <details className="details">
-                <summary className={getColorClass(group.percentage)}>Open: {group.percentage * 100}%</summary>
+                <summary className={getColorClass(group.percentage)}>Open: {group.percentage * 100}% of the time</summary>
                 <ul>
                   {group.hands.map((hand, index) => (
                     <li key={index}>
