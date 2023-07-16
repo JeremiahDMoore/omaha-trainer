@@ -8,8 +8,8 @@ function App() {
   const handleClick = async (position) => {
     setSelectedPosition(position);
     try {
-      const response = await fetch(`http://localhost:3000/hand-values?position=${position}`);
-      // const response = await fetch(`/hand-values?position=${position}`);
+      // const response = await fetch(`http://localhost:3000/hand-values?position=${position}`);
+      const response = await fetch(`/hand-values?position=${position}`);
 
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
