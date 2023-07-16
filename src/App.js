@@ -7,21 +7,22 @@ function App() {
 
   const handleClick = async (position) => {
     setSelectedPosition(position);
+
     try {
-      // const response = await fetch(`http://localhost:3000/hand-values?position=${position}`);
       const response = await fetch(`/hand-values?position=${position}`);
 
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
       }
       const data = await response.json();
-      console.log('Received data:', data);  // Add this line
+      console.log('Received data:', data);
 
       setHandValues(data);
     } catch (error) {
       console.log('Fetch failed:', error);
     }
   };
+
 
 // Function to get the color class based on the percentage
 const getColorClass = (percentage) => {
@@ -47,22 +48,45 @@ const getColorClass = (percentage) => {
       </div>
       <br></br>
       {selectedPosition && <h2>Position: {selectedPosition}</h2>}
-      <ul>
-        {handValues.map((group, index) => (
-          <li key={index}>
-            <details className="details">
-              <summary className={getColorClass(group.percentage)}>Open: {group.percentage * 100}%</summary>
-              <ul>
-                {group.hands.map((hand, index) => (
-                  <li key={index}>
-                    <span className="range-description-bold">Range: {hand.range}, </span>
-                    <span className="range-description">Description: {hand.description}</span>
-                  </li>
-                ))}
-              </ul>
-            </details>
-          </li>
-        ))}
+<ul>
+  {selectedPosition === 'BB' && (
+    <li>
+      <details className="details">
+        <summary className="red">Cannot open in BB</summary>
+        <ul>
+          <span className="range-description-bold">DON'T BE A NUTRAG</span>
+        </ul>
+      </details>
+    </li>
+  )}
+  {selectedPosition === 'SB' && (
+    <li>
+      <details className="details">
+        <summary className="red">Figure it out, bumba.</summary>
+        <ul>
+          <span className="range-description-bold">Limp, Raise or Fold depending on player type</span>
+          <span className="range-description">Default: use same as LJ range since you will be out of position</span>
+        </ul>
+      </details>
+    </li>
+        )}
+        {(selectedPosition !== 'BB' && selectedPosition !== 'SB') &&
+          handValues.map((group, index) => (
+            <li key={index}>
+              <details className="details">
+                <summary className={getColorClass(group.percentage)}>Open: {group.percentage * 100}%</summary>
+                <ul>
+                  {group.hands.map((hand, index) => (
+                    <li key={index}>
+                      <span className="range-description-bold">Range: {hand.range}, {hand.type}</span>
+                      <span className="range-description"> Description: {hand.description}</span>
+                    </li>
+                  ))}
+                </ul>
+              </details>
+            </li>
+          ))
+        }
       </ul>
     </div>
   );

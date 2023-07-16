@@ -1,1 +1,3726 @@
-[{"description": "Cannot open BB", "range": "Cannot open BB", "position": "BB", "percentage": 1.0},{"description": "Connected A-high broadway", "range": "AKQJ-AJT7", "position": "LJ", "percentage": 1.0}, {"description": "Connected A-high broadway", "range": "AKQJ-AJT7", "position": "HJ", "percentage": 1.0}, {"description": "Connected A-high broadway", "range": "AKQJ-AJT7", "position": "CO", "percentage": 1.0}, {"description": "Connected A-high broadway", "range": "AKQJ-AJT7", "position": "BTN", "percentage": 1.0}, {"description": "Semi-connected A-high broadway", "range": "AKQ9-AJT2", "position": "LJ", "percentage": 1.0}, {"description": "Semi-connected A-high broadway", "range": "AKQ9-AJT2", "position": "HJ", "percentage": 1.0}, {"description": "Semi-connected A-high broadway", "range": "AKQ9-AJT2", "position": "CO", "percentage": 1.0}, {"description": "Semi-connected A-high broadway", "range": "AKQ9-AJT2", "position": "BTN", "percentage": 1.0}, {"description": "Connected A-high non-broadway", "range": "AQ98-A432", "position": "LJ", "percentage": 0.25}, {"description": "Connected A-high non-broadway", "range": "AQ98-A432", "position": "HJ", "percentage": 0.5}, {"description": "Connected A-high non-broadway", "range": "AQ98-A432", "position": "CO", "percentage": 1.0}, {"description": "Connected A-high non-broadway", "range": "AQ98-A432", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected A-high (2-card) broadway", "range": "AK98-AT32", "position": "LJ", "percentage": 0.5}, {"description": "Disconnected A-high (2-card) broadway", "range": "AK98-AT32", "position": "HJ", "percentage": 0.75}, {"description": "Disconnected A-high (2-card) broadway", "range": "AK98-AT32", "position": "CO", "percentage": 1.0}, {"description": "Disconnected A-high (2-card) broadway", "range": "AK98-AT32", "position": "BTN", "percentage": 1.0}, {"description": "Ragged A-high", "range": "AK96-A643", "position": "LJ", "percentage": 0.05}, {"description": "Ragged A-high", "range": "AK96-A643", "position": "HJ", "percentage": 0.15}, {"description": "Ragged A-high", "range": "AK96-A643", "position": "CO", "percentage": 1.0}, {"description": "Ragged A-high", "range": "AK96-A643", "position": "BTN", "percentage": 1.0}, {"description": "Very connected K/Q-high broadway", "range": "KQJT-QT98", "position": "LJ", "percentage": 1.0}, {"description": "Very connected K/Q-high broadway", "range": "KQJT-QT98", "position": "HJ", "percentage": 1.0}, {"description": "Very connected K/Q-high broadway", "range": "KQJT-QT98", "position": "CO", "percentage": 1.0}, {"description": "Very connected K/Q-high broadway", "range": "KQJT-QT98", "position": "BTN", "percentage": 1.0}, {"description": "Very connected mid-high", "range": "JT98-T876", "position": "LJ", "percentage": 1.0}, {"description": "Very connected mid-high", "range": "JT98-T876", "position": "HJ", "percentage": 1.0}, {"description": "Very connected mid-high", "range": "JT98-T876", "position": "CO", "percentage": 1.0}, {"description": "Very connected mid-high", "range": "JT98-T876", "position": "BTN", "percentage": 1.0}, {"description": "Very connected low", "range": "9876-5432", "position": "LJ", "percentage": 0.25}, {"description": "Very connected low", "range": "9876-5432", "position": "HJ", "percentage": 0.5}, {"description": "Very connected low", "range": "9876-5432", "position": "CO", "percentage": 0.75}, {"description": "Very connected low", "range": "9876-5432", "position": "BTN", "percentage": 1.0}, {"description": "Connected near-broadway", "range": "KQJ8-QT85", "position": "LJ", "percentage": 0.5}, {"description": "Connected near-broadway", "range": "KQJ8-QT85", "position": "HJ", "percentage": 0.5}, {"description": "Connected near-broadway", "range": "KQJ8-QT85", "position": "CO", "percentage": 1.0}, {"description": "Connected near-broadway", "range": "KQJ8-QT85", "position": "BTN", "percentage": 1.0}, {"description": "Connected 3-low with broadway kicker", "range": "K987-Q542", "position": "LJ", "percentage": 0.0}, {"description": "Connected 3-low with broadway kicker", "range": "K987-Q542", "position": "HJ", "percentage": 0.0}, {"description": "Connected 3-low with broadway kicker", "range": "K987-Q542", "position": "CO", "percentage": 0.75}, {"description": "Connected 3-low with broadway kicker", "range": "K987-Q542", "position": "BTN", "percentage": 1.0}, {"description": "Connected mid-high", "range": "JT96-T754", "position": "LJ", "percentage": 0.0}, {"description": "Connected mid-high", "range": "JT96-T754", "position": "HJ", "percentage": 0.0}, {"description": "Connected mid-high", "range": "JT96-T754", "position": "CO", "percentage": 0.25}, {"description": "Connected mid-high", "range": "JT96-T754", "position": "BTN", "percentage": 1.0}, {"description": "Connected low", "range": "9874-6432", "position": "LJ", "percentage": 0.0}, {"description": "Connected low", "range": "9874-6432", "position": "HJ", "percentage": 0.0}, {"description": "Connected low", "range": "9874-6432", "position": "CO", "percentage": 0.0}, {"description": "Connected low", "range": "9874-6432", "position": "BTN", "percentage": 0.75}, {"description": "Disconnected K/Q/J-high, 2 card broadway", "range": "KQ96-JT32", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected K/Q/J-high, 2 card broadway", "range": "KQ96-JT32", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected K/Q/J-high, 2 card broadway", "range": "KQ96-JT32", "position": "CO", "percentage": 0.25}, {"description": "Disconnected K/Q/J-high, 2 card broadway", "range": "KQ96-JT32", "position": "BTN", "percentage": 1.0}, {"description": "Ragged disconnected", "range": "K975-8432", "position": "LJ", "percentage": 0.0}, {"description": "Ragged disconnected", "range": "K975-8432", "position": "HJ", "percentage": 0.0}, {"description": "Ragged disconnected", "range": "K975-8432", "position": "CO", "percentage": 0.0}, {"description": "Ragged disconnected", "range": "K975-8432", "position": "BTN", "percentage": 0.75}, {"description": "Connected A-high broadway, suited ace", "range": "AKQJ-AJT7", "position": "LJ", "percentage": 1.0}, {"description": "Connected A-high broadway, suited ace", "range": "AKQJ-AJT7", "position": "HJ", "percentage": 1.0}, {"description": "Connected A-high broadway, suited ace", "range": "AKQJ-AJT7", "position": "CO", "percentage": 1.0}, {"description": "Connected A-high broadway, suited ace", "range": "AKQJ-AJT7", "position": "BTN", "percentage": 1.0}, {"description": "Connected A-high broadway, unsuited ace", "range": "AKQJ-AJT7", "position": "LJ", "percentage": 1.0}, {"description": "Connected A-high broadway, unsuited ace", "range": "AKQJ-AJT7", "position": "HJ", "percentage": 1.0}, {"description": "Connected A-high broadway, unsuited ace", "range": "AKQJ-AJT7", "position": "CO", "percentage": 1.0}, {"description": "Connected A-high broadway, unsuited ace", "range": "AKQJ-AJT7", "position": "BTN", "percentage": 1.0}, {"description": "Semi-connected A-high broadway, suited ace", "range": "AKQ9-AJT2", "position": "LJ", "percentage": 0.5}, {"description": "Semi-connected A-high broadway, suited ace", "range": "AKQ9-AJT2", "position": "HJ", "percentage": 1.0}, {"description": "Semi-connected A-high broadway, suited ace", "range": "AKQ9-AJT2", "position": "CO", "percentage": 1.0}, {"description": "Semi-connected A-high broadway, suited ace", "range": "AKQ9-AJT2", "position": "BTN", "percentage": 1.0}, {"description": "Semi-connected A-high broadway,unsuited ace", "range": "AKQ9-AJT2", "position": "LJ", "percentage": 0.25}, {"description": "Semi-connected A-high broadway,unsuited ace", "range": "AKQ9-AJT2", "position": "HJ", "percentage": 0.25}, {"description": "Semi-connected A-high broadway,unsuited ace", "range": "AKQ9-AJT2", "position": "CO", "percentage": 1.0}, {"description": "Semi-connected A-high broadway,unsuited ace", "range": "AKQ9-AJT2", "position": "BTN", "percentage": 1.0}, {"description": "Connected A-high non-broadway, unsuited ace", "range": "AQ98-A423", "position": "LJ", "percentage": 0.0}, {"description": "Connected A-high non-broadway, unsuited ace", "range": "AQ98-A423", "position": "HJ", "percentage": 0.0}, {"description": "Connected A-high non-broadway, unsuited ace", "range": "AQ98-A423", "position": "CO", "percentage": 0.25}, {"description": "Connected A-high non-broadway, unsuited ace", "range": "AQ98-A423", "position": "BTN", "percentage": 1.0}, {"description": "Connected A-high non-broadway, suited ace", "range": "AQ98-A432", "position": "LJ", "percentage": 0.1}, {"description": "Connected A-high non-broadway, suited ace", "range": "AQ98-A432", "position": "HJ", "percentage": 0.25}, {"description": "Connected A-high non-broadway, suited ace", "range": "AQ98-A432", "position": "CO", "percentage": 0.25}, {"description": "Connected A-high non-broadway, suited ace", "range": "AQ98-A432", "position": "BTN", "percentage": 1.0}, {"description": "Ragged A-high, suited ace", "range": "AK96-A643", "position": "LJ", "percentage": 0.0}, {"description": "Ragged A-high, suited ace", "range": "AK96-A643", "position": "HJ", "percentage": 0.0}, {"description": "Ragged A-high, suited ace", "range": "AK96-A643", "position": "CO", "percentage": 0.0}, {"description": "Ragged A-high, suited ace", "range": "AK96-A643", "position": "BTN", "percentage": 0.75}, {"description": "Ragged A-high, unsuited ace", "range": "AK96-A643", "position": "LJ", "percentage": 0.0}, {"description": "Ragged A-high, unsuited ace", "range": "AK96-A643", "position": "HJ", "percentage": 0.0}, {"description": "Ragged A-high, unsuited ace", "range": "AK96-A643", "position": "CO", "percentage": 0.0}, {"description": "Ragged A-high, unsuited ace", "range": "AK96-A643", "position": "BTN", "percentage": 0.75}, {"description": "Disconnected A-high (2-card) broadway, suited ace", "range": "AK98-AT32", "position": "LJ", "percentage": 0.25}, {"description": "Disconnected A-high (2-card) broadway, suited ace", "range": "AK98-AT32", "position": "HJ", "percentage": 0.5}, {"description": "Disconnected A-high (2-card) broadway, suited ace", "range": "AK98-AT32", "position": "CO", "percentage": 0.5}, {"description": "Disconnected A-high (2-card) broadway, suited ace", "range": "AK98-AT32", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected A-high (2-card) broadway, unsuited ace", "range": "AK98-AT32", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected A-high (2-card) broadway, unsuited ace", "range": "AK98-AT32", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected A-high (2-card) broadway, unsuited ace", "range": "AK98-AT32", "position": "CO", "percentage": 0.0}, {"description": "Disconnected A-high (2-card) broadway, unsuited ace", "range": "AK98-AT32", "position": "BTN", "percentage": 1.0}, {"description": "Very connected K/Q-high broadway", "range": "KQJT-QT98", "position": "LJ", "percentage": 0.75}, {"description": "Very connected K/Q-high broadway", "range": "KQJT-QT98", "position": "HJ", "percentage": 1.0}, {"description": "Very connected K/Q-high broadway", "range": "KQJT-QT98", "position": "CO", "percentage": 1.0}, {"description": "Very connected K/Q-high broadway", "range": "KQJT-QT98", "position": "BTN", "percentage": 1.0}, {"description": "Very connected mid-high", "range": "JT98-T876", "position": "LJ", "percentage": 0.25}, {"description": "Very connected mid-high", "range": "JT98-T876", "position": "HJ", "percentage": 0.5}, {"description": "Very connected mid-high", "range": "JT98-T876", "position": "CO", "percentage": 1.0}, {"description": "Very connected mid-high", "range": "JT98-T876", "position": "BTN", "percentage": 1.0}, {"description": "Very connected low", "range": "9876-5432", "position": "LJ", "percentage": 0.0}, {"description": "Very connected low", "range": "9876-5432", "position": "HJ", "percentage": 0.25}, {"description": "Very connected low", "range": "9876-5432", "position": "CO", "percentage": 0.25}, {"description": "Very connected low", "range": "9876-5432", "position": "BTN", "percentage": 0.5}, {"description": "Connected near-broadway", "range": "KQJ8-QT85", "position": "LJ", "percentage": 0.0}, {"description": "Connected near-broadway", "range": "KQJ8-QT85", "position": "HJ", "percentage": 0.0}, {"description": "Connected near-broadway", "range": "KQJ8-QT85", "position": "CO", "percentage": 0.5}, {"description": "Connected near-broadway", "range": "KQJ8-QT85", "position": "BTN", "percentage": 1.0}, {"description": "Connected 3-low with broadway kicker, broadway suit", "range": "K987-Q542", "position": "LJ", "percentage": 0.0}, {"description": "Connected 3-low with broadway kicker, broadway suit", "range": "K987-Q542", "position": "HJ", "percentage": 0.0}, {"description": "Connected 3-low with broadway kicker, broadway suit", "range": "K987-Q542", "position": "CO", "percentage": 0.0}, {"description": "Connected 3-low with broadway kicker, broadway suit", "range": "K987-Q542", "position": "BTN", "percentage": 0.5}, {"description": "Connected 3-low with broadway kicker, non-broadway suit", "range": "K987-Q542", "position": "LJ", "percentage": 0.0}, {"description": "Connected 3-low with broadway kicker, non-broadway suit", "range": "K987-Q542", "position": "HJ", "percentage": 0.0}, {"description": "Connected 3-low with broadway kicker, non-broadway suit", "range": "K987-Q542", "position": "CO", "percentage": 0.0}, {"description": "Connected 3-low with broadway kicker, non-broadway suit", "range": "K987-Q542", "position": "BTN", "percentage": 0.0}, {"description": "Connected mid-high", "range": "JT96-T754", "position": "LJ", "percentage": 0.0}, {"description": "Connected mid-high", "range": "JT96-T754", "position": "HJ", "percentage": 0.0}, {"description": "Connected mid-high", "range": "JT96-T754", "position": "CO", "percentage": 0.0}, {"description": "Connected mid-high", "range": "JT96-T754", "position": "BTN", "percentage": 0.5}, {"description": "Connected low", "range": "9874-6432", "position": "LJ", "percentage": 0.0}, {"description": "Connected low", "range": "9874-6432", "position": "HJ", "percentage": 0.0}, {"description": "Connected low", "range": "9874-6432", "position": "CO", "percentage": 0.0}, {"description": "Connected low", "range": "9874-6432", "position": "BTN", "percentage": 0.0}, {"description": "Disconnected K/Q/J-high, 2 card broadway", "range": "KQ96-JT32", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected K/Q/J-high, 2 card broadway", "range": "KQ96-JT32", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected K/Q/J-high, 2 card broadway", "range": "KQ96-JT32", "position": "CO", "percentage": 0.0}, {"description": "Disconnected K/Q/J-high, 2 card broadway", "range": "KQ96-JT32", "position": "BTN", "percentage": 0.5}, {"description": "Ragged disconnected", "range": "K984-T632", "position": "LJ", "percentage": 0.0}, {"description": "Ragged disconnected", "range": "K984-T632", "position": "HJ", "percentage": 0.0}, {"description": "Ragged disconnected", "range": "K984-T632", "position": "CO", "percentage": 0.0}, {"description": "Ragged disconnected", "range": "K984-T632", "position": "BTN", "percentage": 0.0}, {"description": "Connected A-high broadway", "range": "AKQJ-AJT7", "position": "LJ", "percentage": 0.0}, {"description": "Connected A-high broadway", "range": "AKQJ-AJT7", "position": "HJ", "percentage": 0.0}, {"description": "Connected A-high broadway", "range": "AKQJ-AJT7", "position": "CO", "percentage": 1.0}, {"description": "Connected A-high broadway", "range": "AKQJ-AJT7", "position": "BTN", "percentage": 1.0}, {"description": "Semi-connected A-high broadway", "range": "AKQ9-AJT2", "position": "LJ", "percentage": 0.0}, {"description": "Semi-connected A-high broadway", "range": "AKQ9-AJT2", "position": "HJ", "percentage": 0.0}, {"description": "Semi-connected A-high broadway", "range": "AKQ9-AJT2", "position": "CO", "percentage": 0.25}, {"description": "Semi-connected A-high broadway", "range": "AKQ9-AJT2", "position": "BTN", "percentage": 0.25}, {"description": "Connected A-high non-broadway", "range": "AQ98-A432", "position": "LJ", "percentage": 0.0}, {"description": "Connected A-high non-broadway", "range": "AQ98-A432", "position": "HJ", "percentage": 0.0}, {"description": "Connected A-high non-broadway", "range": "AQ98-A432", "position": "CO", "percentage": 0.0}, {"description": "Connected A-high non-broadway", "range": "AQ98-A432", "position": "BTN", "percentage": 0.0}, {"description": "Disconnected A-high (2-card) broadway", "range": "AK98-AT32", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected A-high (2-card) broadway", "range": "AK98-AT32", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected A-high (2-card) broadway", "range": "AK98-AT32", "position": "CO", "percentage": 0.0}, {"description": "Disconnected A-high (2-card) broadway", "range": "AK98-AT32", "position": "BTN", "percentage": 0.0}, {"description": "Ragged A-high", "range": "A984-A743", "position": "LJ", "percentage": 0.0}, {"description": "Ragged A-high", "range": "A984-A743", "position": "HJ", "percentage": 0.0}, {"description": "Ragged A-high", "range": "A984-A743", "position": "CO", "percentage": 0.0}, {"description": "Ragged A-high", "range": "A984-A743", "position": "BTN", "percentage": 0.0}, {"description": "Very connected K/Q-high broadway", "range": "KQJT-QT98", "position": "LJ", "percentage": 0.0}, {"description": "Very connected K/Q-high broadway", "range": "KQJT-QT98", "position": "HJ", "percentage": 0.0}, {"description": "Very connected K/Q-high broadway", "range": "KQJT-QT98", "position": "CO", "percentage": 1.0}, {"description": "Very connected K/Q-high broadway", "range": "KQJT-QT98", "position": "BTN", "percentage": 1.0}, {"description": "Very connected mid-high", "range": "JT98-T876", "position": "LJ", "percentage": 0.0}, {"description": "Very connected mid-high", "range": "JT98-T876", "position": "HJ", "percentage": 0.0}, {"description": "Very connected mid-high", "range": "JT98-T876", "position": "CO", "percentage": 0.25}, {"description": "Very connected mid-high", "range": "JT98-T876", "position": "BTN", "percentage": 0.5}, {"description": "Very connected low", "range": "9876-5432", "position": "LJ", "percentage": 0.0}, {"description": "Very connected low", "range": "9876-5432", "position": "HJ", "percentage": 0.0}, {"description": "Very connected low", "range": "9876-5432", "position": "CO", "percentage": 0.0}, {"description": "Very connected low", "range": "9876-5432", "position": "BTN", "percentage": 0.0}, {"description": "Connected near-broadway", "range": "KQJ8-QT85", "position": "LJ", "percentage": 0.0}, {"description": "Connected near-broadway", "range": "KQJ8-QT85", "position": "HJ", "percentage": 0.0}, {"description": "Connected near-broadway", "range": "KQJ8-QT85", "position": "CO", "percentage": 0.0}, {"description": "Connected near-broadway", "range": "KQJ8-QT85", "position": "BTN", "percentage": 0.0}, {"description": "Connected 3-low with broadway kicker", "range": "K987-Q542", "position": "LJ", "percentage": 0.0}, {"description": "Connected 3-low with broadway kicker", "range": "K987-Q542", "position": "HJ", "percentage": 0.0}, {"description": "Connected 3-low with broadway kicker", "range": "K987-Q542", "position": "CO", "percentage": 0.0}, {"description": "Connected 3-low with broadway kicker", "range": "K987-Q542", "position": "BTN", "percentage": 0.0}, {"description": "Connected mid-high", "range": "JT96-T754", "position": "LJ", "percentage": 0.0}, {"description": "Connected mid-high", "range": "JT96-T754", "position": "HJ", "percentage": 0.0}, {"description": "Connected mid-high", "range": "JT96-T754", "position": "CO", "percentage": 0.0}, {"description": "Connected mid-high", "range": "JT96-T754", "position": "BTN", "percentage": 0.0}, {"description": "Connected low", "range": "9874-6432", "position": "LJ", "percentage": 0.0}, {"description": "Connected low", "range": "9874-6432", "position": "HJ", "percentage": 0.0}, {"description": "Connected low", "range": "9874-6432", "position": "CO", "percentage": 0.0}, {"description": "Connected low", "range": "9874-6432", "position": "BTN", "percentage": 0.0}, {"description": "Disconnected K/Q/J-high, 2 card broadway", "range": "KQ96-JT32", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected K/Q/J-high, 2 card broadway", "range": "KQ96-JT32", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected K/Q/J-high, 2 card broadway", "range": "KQ96-JT32", "position": "CO", "percentage": 0.0}, {"description": "Disconnected K/Q/J-high, 2 card broadway", "range": "KQ96-JT32", "position": "BTN", "percentage": 0.0}, {"description": "Ragged disconnected", "range": "K975-8432", "position": "LJ", "percentage": 0.0}, {"description": "Ragged disconnected", "range": "K975-8432", "position": "HJ", "percentage": 0.0}, {"description": "Ragged disconnected", "range": "K975-8432", "position": "CO", "percentage": 0.0}, {"description": "Ragged disconnected", "range": "K975-8432", "position": "BTN", "percentage": 0.0}, {"description": "Connected Aaxx", "range": "AAKQ-AA43", "position": "LJ", "percentage": 1.0}, {"description": "Connected Aaxx", "range": "AAKQ-AA43", "position": "HJ", "percentage": 1.0}, {"description": "Connected Aaxx", "range": "AAKQ-AA43", "position": "CO", "percentage": 1.0}, {"description": "Connected Aaxx", "range": "AAKQ-AA43", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected Aaxx", "range": "AAK9-AA62", "position": "LJ", "percentage": 1.0}, {"description": "Disconnected Aaxx", "range": "AAK9-AA62", "position": "HJ", "percentage": 1.0}, {"description": "Disconnected Aaxx", "range": "AAK9-AA62", "position": "CO", "percentage": 1.0}, {"description": "Disconnected Aaxx", "range": "AAK9-AA62", "position": "BTN", "percentage": 1.0}, {"description": "Connected broadway pair with Ace", "range": "AKKQ-ATT8", "position": "LJ", "percentage": 1.0}, {"description": "Connected broadway pair with Ace", "range": "AKKQ-ATT8", "position": "HJ", "percentage": 1.0}, {"description": "Connected broadway pair with Ace", "range": "AKKQ-ATT8", "position": "CO", "percentage": 1.0}, {"description": "Connected broadway pair with Ace", "range": "AKKQ-ATT8", "position": "BTN", "percentage": 1.0}, {"description": "Connected broadway pair, no Ace", "range": "KKQJ-QJJ8", "position": "LJ", "percentage": 1.0}, {"description": "Connected broadway pair, no Ace", "range": "KKQJ-QJJ8", "position": "HJ", "percentage": 1.0}, {"description": "Connected broadway pair, no Ace", "range": "KKQJ-QJJ8", "position": "CO", "percentage": 1.0}, {"description": "Connected broadway pair, no Ace", "range": "KKQJ-QJJ8", "position": "BTN", "percentage": 1.0}, {"description": "Connected mid-high pair", "range": "JJT9-TT76", "position": "LJ", "percentage": 1.0}, {"description": "Connected mid-high pair", "range": "JJT9-TT76", "position": "HJ", "percentage": 1.0}, {"description": "Connected mid-high pair", "range": "JJT9-TT76", "position": "CO", "percentage": 1.0}, {"description": "Connected mid-high pair", "range": "JJT9-TT76", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected AKKx-AQQx", "range": "AKK9-AQQ2", "position": "LJ", "percentage": 1.0}, {"description": "Disconnected AKKx-AQQx", "range": "AKK9-AQQ2", "position": "HJ", "percentage": 1.0}, {"description": "Disconnected AKKx-AQQx", "range": "AKK9-AQQ2", "position": "CO", "percentage": 1.0}, {"description": "Disconnected AKKx-AQQx", "range": "AKK9-AQQ2", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected AJJx-ATTx", "range": "AJJ8-ATT2", "position": "LJ", "percentage": 1.0}, {"description": "Disconnected AJJx-ATTx", "range": "AJJ8-ATT2", "position": "HJ", "percentage": 1.0}, {"description": "Disconnected AJJx-ATTx", "range": "AJJ8-ATT2", "position": "CO", "percentage": 1.0}, {"description": "Disconnected AJJx-ATTx", "range": "AJJ8-ATT2", "position": "BTN", "percentage": 1.0}, {"description": "Semi-connected KKxx-QQxx", "range": "KKQ8-QQ54", "position": "LJ", "percentage": 1.0}, {"description": "Semi-connected KKxx-QQxx", "range": "KKQ8-QQ54", "position": "HJ", "percentage": 1.0}, {"description": "Semi-connected KKxx-QQxx", "range": "KKQ8-QQ54", "position": "CO", "percentage": 1.0}, {"description": "Semi-connected KKxx-QQxx", "range": "KKQ8-QQ54", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected KKxx-QQxx", "range": "KK95-QQ32", "position": "LJ", "percentage": 1.0}, {"description": "Disconnected KKxx-QQxx", "range": "KK95-QQ32", "position": "HJ", "percentage": 1.0}, {"description": "Disconnected KKxx-QQxx", "range": "KK95-QQ32", "position": "CO", "percentage": 1.0}, {"description": "Disconnected KKxx-QQxx", "range": "KK95-QQ32", "position": "BTN", "percentage": 1.0}, {"description": "Semi-connected JJxx-TTxx", "range": "KJJ8-TT54", "position": "LJ", "percentage": 0.25}, {"description": "Semi-connected JJxx-TTxx", "range": "KJJ8-TT54", "position": "HJ", "percentage": 0.25}, {"description": "Semi-connected JJxx-TTxx", "range": "KJJ8-TT54", "position": "CO", "percentage": 0.5}, {"description": "Semi-connected JJxx-TTxx", "range": "KJJ8-TT54", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected JJxx-TTxx", "range": "KJJ7-TT32", "position": "LJ", "percentage": 0.25}, {"description": "Disconnected JJxx-TTxx", "range": "KJJ7-TT32", "position": "HJ", "percentage": 0.25}, {"description": "Disconnected JJxx-TTxx", "range": "KJJ7-TT32", "position": "CO", "percentage": 0.5}, {"description": "Disconnected JJxx-TTxx", "range": "KJJ7-TT32", "position": "BTN", "percentage": 1.0}, {"description": "Connected mid pairs", "range": "QJ99-7665", "position": "LJ", "percentage": 0.0}, {"description": "Connected mid pairs", "range": "QJ99-7665", "position": "HJ", "percentage": 0.0}, {"description": "Connected mid pairs", "range": "QJ99-7665", "position": "CO", "percentage": 1.0}, {"description": "Connected mid pairs", "range": "QJ99-7665", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected mid pairs, suited ace", "range": "A998-A662", "position": "LJ", "percentage": 0.5}, {"description": "Disconnected mid pairs, suited ace", "range": "A998-A662", "position": "HJ", "percentage": 0.5}, {"description": "Disconnected mid pairs, suited ace", "range": "A998-A662", "position": "CO", "percentage": 1.0}, {"description": "Disconnected mid pairs, suited ace", "range": "A998-A662", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected mid pairs w/ broadway, suited ace", "range": "AK99-AT66", "position": "LJ", "percentage": 1.0}, {"description": "Disconnected mid pairs w/ broadway, suited ace", "range": "AK99-AT66", "position": "HJ", "percentage": 1.0}, {"description": "Disconnected mid pairs w/ broadway, suited ace", "range": "AK99-AT66", "position": "CO", "percentage": 1.0}, {"description": "Disconnected mid pairs w/ broadway, suited ace", "range": "AK99-AT66", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected mid pairs w/ broadway, no ace", "range": "KQ99-JT66", "position": "LJ", "percentage": 0.25}, {"description": "Disconnected mid pairs w/ broadway, no ace", "range": "KQ99-JT66", "position": "HJ", "percentage": 0.25}, {"description": "Disconnected mid pairs w/ broadway, no ace", "range": "KQ99-JT66", "position": "CO", "percentage": 0.75}, {"description": "Disconnected mid pairs w/ broadway, no ace", "range": "KQ99-JT66", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected mid pairs, no ace", "range": "K998-7662", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected mid pairs, no ace", "range": "K998-7662", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected mid pairs, no ace", "range": "K998-7662", "position": "CO", "percentage": 0.25}, {"description": "Disconnected mid pairs, no ace", "range": "K998-7662", "position": "BTN", "percentage": 0.75}, {"description": "Connected low pairs", "range": "8755-4322", "position": "LJ", "percentage": 0.0}, {"description": "Connected low pairs", "range": "8755-4322", "position": "HJ", "percentage": 0.0}, {"description": "Connected low pairs", "range": "8755-4322", "position": "CO", "percentage": 0.0}, {"description": "Connected low pairs", "range": "8755-4322", "position": "BTN", "percentage": 0.25}, {"description": "Disconnected low pairs w/ broadway", "range": "AK55-AT22", "position": "LJ", "percentage": 0.33}, {"description": "Disconnected low pairs w/ broadway", "range": "AK55-AT22", "position": "HJ", "percentage": 0.33}, {"description": "Disconnected low pairs w/ broadway", "range": "AK55-AT22", "position": "CO", "percentage": 1.0}, {"description": "Disconnected low pairs w/ broadway", "range": "AK55-AT22", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected low pairs w/ broadway, no ace", "range": "KQ55-JT22", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected low pairs w/ broadway, no ace", "range": "KQ55-JT22", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected low pairs w/ broadway, no ace", "range": "KQ55-JT22", "position": "CO", "percentage": 0.0}, {"description": "Disconnected low pairs w/ broadway, no ace", "range": "KQ55-JT22", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected low pairs,  w an ace", "range": "A955-A322", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected low pairs,  w an ace", "range": "A955-A322", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected low pairs,  w an ace", "range": "A955-A322", "position": "CO", "percentage": 0.5}, {"description": "Disconnected low pairs,  w an ace", "range": "A955-A322", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected low pairs,  w/o ace", "range": "K955-6322", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected low pairs,  w/o ace", "range": "K955-6322", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected low pairs,  w/o ace", "range": "K955-6322", "position": "CO", "percentage": 0.0}, {"description": "Disconnected low pairs,  w/o ace", "range": "K955-6322", "position": "BTN", "percentage": 0.25}, {"description": "Connected AAxx, suited ace", "range": "AAKQ-AA43", "position": "LJ", "percentage": 1.0}, {"description": "Connected AAxx, suited ace", "range": "AAKQ-AA43", "position": "HJ", "percentage": 1.0}, {"description": "Connected AAxx, suited ace", "range": "AAKQ-AA43", "position": "CO", "percentage": 1.0}, {"description": "Connected AAxx, suited ace", "range": "AAKQ-AA43", "position": "BTN", "percentage": 1.0}, {"description": "Connected AAxx, unsuited ace", "range": "AAKQ-AA43", "position": "LJ", "percentage": 1.0}, {"description": "Connected AAxx, unsuited ace", "range": "AAKQ-AA43", "position": "HJ", "percentage": 1.0}, {"description": "Connected AAxx, unsuited ace", "range": "AAKQ-AA43", "position": "CO", "percentage": 1.0}, {"description": "Connected AAxx, unsuited ace", "range": "AAKQ-AA43", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected AAxx, suited ace", "range": "AAK9-AA62", "position": "LJ", "percentage": 1.0}, {"description": "Disconnected AAxx, suited ace", "range": "AAK9-AA62", "position": "HJ", "percentage": 1.0}, {"description": "Disconnected AAxx, suited ace", "range": "AAK9-AA62", "position": "CO", "percentage": 1.0}, {"description": "Disconnected AAxx, suited ace", "range": "AAK9-AA62", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected AAxx, unsuited ace", "range": "AAK9-AA62", "position": "LJ", "percentage": 1.0}, {"description": "Disconnected AAxx, unsuited ace", "range": "AAK9-AA62", "position": "HJ", "percentage": 1.0}, {"description": "Disconnected AAxx, unsuited ace", "range": "AAK9-AA62", "position": "CO", "percentage": 1.0}, {"description": "Disconnected AAxx, unsuited ace", "range": "AAK9-AA62", "position": "BTN", "percentage": 1.0}, {"description": "Connected broadway pair with Ace, suited ace", "range": "AKKQ-ATT8", "position": "LJ", "percentage": 1.0}, {"description": "Connected broadway pair with Ace, suited ace", "range": "AKKQ-ATT8", "position": "HJ", "percentage": 1.0}, {"description": "Connected broadway pair with Ace, suited ace", "range": "AKKQ-ATT8", "position": "CO", "percentage": 1.0}, {"description": "Connected broadway pair with Ace, suited ace", "range": "AKKQ-ATT8", "position": "BTN", "percentage": 1.0}, {"description": "Connected broadway pair with Ace, unsuited ace", "range": "AKKQ-ATT8", "position": "LJ", "percentage": 1.0}, {"description": "Connected broadway pair with Ace, unsuited ace", "range": "AKKQ-ATT8", "position": "HJ", "percentage": 1.0}, {"description": "Connected broadway pair with Ace, unsuited ace", "range": "AKKQ-ATT8", "position": "CO", "percentage": 1.0}, {"description": "Connected broadway pair with Ace, unsuited ace", "range": "AKKQ-ATT8", "position": "BTN", "percentage": 1.0}, {"description": "Connected broadway pair, no Ace", "range": "KKQJ-QJJ8", "position": "LJ", "percentage": 0.5}, {"description": "Connected broadway pair, no Ace", "range": "KKQJ-QJJ8", "position": "HJ", "percentage": 1.0}, {"description": "Connected broadway pair, no Ace", "range": "KKQJ-QJJ8", "position": "CO", "percentage": 1.0}, {"description": "Connected broadway pair, no Ace", "range": "KKQJ-QJJ8", "position": "BTN", "percentage": 1.0}, {"description": "Connected mid-high pair", "range": "JJT9-TT76", "position": "LJ", "percentage": 0.33}, {"description": "Connected mid-high pair", "range": "JJT9-TT76", "position": "HJ", "percentage": 0.33}, {"description": "Connected mid-high pair", "range": "JJT9-TT76", "position": "CO", "percentage": 1.0}, {"description": "Connected mid-high pair", "range": "JJT9-TT76", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected AKKx-AQQx, suited ace", "range": "AKK9-AQQ2", "position": "LJ", "percentage": 1.0}, {"description": "Disconnected AKKx-AQQx, suited ace", "range": "AKK9-AQQ2", "position": "HJ", "percentage": 1.0}, {"description": "Disconnected AKKx-AQQx, suited ace", "range": "AKK9-AQQ2", "position": "CO", "percentage": 1.0}, {"description": "Disconnected AKKx-AQQx, suited ace", "range": "AKK9-AQQ2", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected AKKx-AQQx, unsuited ace", "range": "AKK9-AQQ2", "position": "LJ", "percentage": 1.0}, {"description": "Disconnected AKKx-AQQx, unsuited ace", "range": "AKK9-AQQ2", "position": "HJ", "percentage": 1.0}, {"description": "Disconnected AKKx-AQQx, unsuited ace", "range": "AKK9-AQQ2", "position": "CO", "percentage": 1.0}, {"description": "Disconnected AKKx-AQQx, unsuited ace", "range": "AKK9-AQQ2", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected AJJx-ATTx, suited ace", "range": "AJJ8-ATT2", "position": "LJ", "percentage": 1.0}, {"description": "Disconnected AJJx-ATTx, suited ace", "range": "AJJ8-ATT2", "position": "HJ", "percentage": 1.0}, {"description": "Disconnected AJJx-ATTx, suited ace", "range": "AJJ8-ATT2", "position": "CO", "percentage": 1.0}, {"description": "Disconnected AJJx-ATTx, suited ace", "range": "AJJ8-ATT2", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected AJJx-ATTx, unsuited ace", "range": "AJJ8-ATT2", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected AJJx-ATTx, unsuited ace", "range": "AJJ8-ATT2", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected AJJx-ATTx, unsuited ace", "range": "AJJ8-ATT2", "position": "CO", "percentage": 1.0}, {"description": "Disconnected AJJx-ATTx, unsuited ace", "range": "AJJ8-ATT2", "position": "BTN", "percentage": 1.0}, {"description": "Semi-connected KKxx-QQxx", "range": "KKQ8-QQ54", "position": "LJ", "percentage": 0.5}, {"description": "Semi-connected KKxx-QQxx", "range": "KKQ8-QQ54", "position": "HJ", "percentage": 0.5}, {"description": "Semi-connected KKxx-QQxx", "range": "KKQ8-QQ54", "position": "CO", "percentage": 1.0}, {"description": "Semi-connected KKxx-QQxx", "range": "KKQ8-QQ54", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected KKxx-QQxx", "range": "KK95-QQ32", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected KKxx-QQxx", "range": "KK95-QQ32", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected KKxx-QQxx", "range": "KK95-QQ32", "position": "CO", "percentage": 1.0}, {"description": "Disconnected KKxx-QQxx", "range": "KK95-QQ32", "position": "BTN", "percentage": 1.0}, {"description": "Semi-connected JJxx-TTxx", "range": "KJJ7-TT54", "position": "LJ", "percentage": 0.0}, {"description": "Semi-connected JJxx-TTxx", "range": "KJJ7-TT54", "position": "HJ", "percentage": 0.0}, {"description": "Semi-connected JJxx-TTxx", "range": "KJJ7-TT54", "position": "CO", "percentage": 0.25}, {"description": "Semi-connected JJxx-TTxx", "range": "KJJ7-TT54", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected JJxx-TTxx", "range": "KJJ7-TT32", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected JJxx-TTxx", "range": "KJJ7-TT32", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected JJxx-TTxx", "range": "KJJ7-TT32", "position": "CO", "percentage": 0.25}, {"description": "Disconnected JJxx-TTxx", "range": "KJJ7-TT32", "position": "BTN", "percentage": 1.0}, {"description": "Connected mid-pairs", "range": "QJ99-7665", "position": "LJ", "percentage": 0.0}, {"description": "Connected mid-pairs", "range": "QJ99-7665", "position": "HJ", "percentage": 0.0}, {"description": "Connected mid-pairs", "range": "QJ99-7665", "position": "CO", "percentage": 0.25}, {"description": "Connected mid-pairs", "range": "QJ99-7665", "position": "BTN", "percentage": 0.5}, {"description": "Disconnected mid pairs w Ace", "range": "AK99-AT66", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected mid pairs w Ace", "range": "AK99-AT66", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected mid pairs w Ace", "range": "AK99-AT66", "position": "CO", "percentage": 0.75}, {"description": "Disconnected mid pairs w Ace", "range": "AK99-AT66", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected mid pairs w/ broadway", "range": "KQ99-JT66", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected mid pairs w/ broadway", "range": "KQ99-JT66", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected mid pairs w/ broadway", "range": "KQ99-JT66", "position": "CO", "percentage": 0.25}, {"description": "Disconnected mid pairs w/ broadway", "range": "KQ99-JT66", "position": "BTN", "percentage": 0.75}, {"description": "Disconnected mid pairs", "range": "A998-A662", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected mid pairs", "range": "A998-A662", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected mid pairs", "range": "A998-A662", "position": "CO", "percentage": 0.5}, {"description": "Disconnected mid pairs", "range": "A998-A662", "position": "BTN", "percentage": 0.75}, {"description": "Disconnected mid pairs, nosuited ace", "range": "K998-7662", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected mid pairs, nosuited ace", "range": "K998-7662", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected mid pairs, nosuited ace", "range": "K998-7662", "position": "CO", "percentage": 0.0}, {"description": "Disconnected mid pairs, nosuited ace", "range": "K998-7662", "position": "BTN", "percentage": 0.25}, {"description": "Disconnected low pairs w broadway, w ace", "range": "AK55-AT22", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected low pairs w broadway, w ace", "range": "AK55-AT22", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected low pairs w broadway, w ace", "range": "AK55-AT22", "position": "CO", "percentage": 0.5}, {"description": "Disconnected low pairs w broadway, w ace", "range": "AK55-AT22", "position": "BTN", "percentage": 0.5}, {"description": "Disconnected low pairs w broadway, no ace", "range": "KQ55-JT22", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected low pairs w broadway, no ace", "range": "KQ55-JT22", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected low pairs w broadway, no ace", "range": "KQ55-JT22", "position": "CO", "percentage": 0.0}, {"description": "Disconnected low pairs w broadway, no ace", "range": "KQ55-JT22", "position": "BTN", "percentage": 0.25}, {"description": "Connected low-pairs", "range": "8755-4322", "position": "LJ", "percentage": 0.0}, {"description": "Connected low-pairs", "range": "8755-4322", "position": "HJ", "percentage": 0.0}, {"description": "Connected low-pairs", "range": "8755-4322", "position": "CO", "percentage": 0.0}, {"description": "Connected low-pairs", "range": "8755-4322", "position": "BTN", "percentage": 0.0}, {"description": "Disconnected low pairs, no ace", "range": "K955-6322", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected low pairs, no ace", "range": "K955-6322", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected low pairs, no ace", "range": "K955-6322", "position": "CO", "percentage": 0.0}, {"description": "Disconnected low pairs, no ace", "range": "K955-6322", "position": "BTN", "percentage": 0.0}, {"description": "Disconnected low pairs", "range": "A955-A322", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected low pairs", "range": "A955-A322", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected low pairs", "range": "A955-A322", "position": "CO", "percentage": 0.25}, {"description": "Disconnected low pairs", "range": "A955-A322", "position": "BTN", "percentage": 0.5}, {"description": "Connected Aaxx", "range": "AAKQ-AA43", "position": "LJ", "percentage": 1.0}, {"description": "Connected Aaxx", "range": "AAKQ-AA43", "position": "HJ", "percentage": 1.0}, {"description": "Connected Aaxx", "range": "AAKQ-AA43", "position": "CO", "percentage": 1.0}, {"description": "Connected Aaxx", "range": "AAKQ-AA43", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected Aaxx", "range": "AAK9-AA62", "position": "LJ", "percentage": 1.0}, {"description": "Disconnected Aaxx", "range": "AAK9-AA62", "position": "HJ", "percentage": 1.0}, {"description": "Disconnected Aaxx", "range": "AAK9-AA62", "position": "CO", "percentage": 1.0}, {"description": "Disconnected Aaxx", "range": "AAK9-AA62", "position": "BTN", "percentage": 1.0}, {"description": "Connected broadway pair with Ace", "range": "AKKQ-ATT8", "position": "LJ", "percentage": 1.0}, {"description": "Connected broadway pair with Ace", "range": "AKKQ-ATT8", "position": "HJ", "percentage": 1.0}, {"description": "Connected broadway pair with Ace", "range": "AKKQ-ATT8", "position": "CO", "percentage": 1.0}, {"description": "Connected broadway pair with Ace", "range": "AKKQ-ATT8", "position": "BTN", "percentage": 1.0}, {"description": "Connected broadway pair, no Ace", "range": "KKQJ-QJJ8", "position": "LJ", "percentage": 0.25}, {"description": "Connected broadway pair, no Ace", "range": "KKQJ-QJJ8", "position": "HJ", "percentage": 0.5}, {"description": "Connected broadway pair, no Ace", "range": "KKQJ-QJJ8", "position": "CO", "percentage": 1.0}, {"description": "Connected broadway pair, no Ace", "range": "KKQJ-QJJ8", "position": "BTN", "percentage": 1.0}, {"description": "Connected mid-high pair", "range": "JJT9-TT76", "position": "LJ", "percentage": 0.0}, {"description": "Connected mid-high pair", "range": "JJT9-TT76", "position": "HJ", "percentage": 0.0}, {"description": "Connected mid-high pair", "range": "JJT9-TT76", "position": "CO", "percentage": 0.75}, {"description": "Connected mid-high pair", "range": "JJT9-TT76", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected AKKx-AQQx", "range": "AKK9-AQQ2", "position": "LJ", "percentage": 1.0}, {"description": "Disconnected AKKx-AQQx", "range": "AKK9-AQQ2", "position": "HJ", "percentage": 1.0}, {"description": "Disconnected AKKx-AQQx", "range": "AKK9-AQQ2", "position": "CO", "percentage": 1.0}, {"description": "Disconnected AKKx-AQQx", "range": "AKK9-AQQ2", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected AJJx-ATTx", "range": "AJJ9-ATT2", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected AJJx-ATTx", "range": "AJJ9-ATT2", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected AJJx-ATTx", "range": "AJJ9-ATT2", "position": "CO", "percentage": 0.5}, {"description": "Disconnected AJJx-ATTx", "range": "AJJ9-ATT2", "position": "BTN", "percentage": 1.0}, {"description": "Semi-connected KKxx-QQxx", "range": "KKQ8-QQ54", "position": "LJ", "percentage": 0.0}, {"description": "Semi-connected KKxx-QQxx", "range": "KKQ8-QQ54", "position": "HJ", "percentage": 0.0}, {"description": "Semi-connected KKxx-QQxx", "range": "KKQ8-QQ54", "position": "CO", "percentage": 0.5}, {"description": "Semi-connected KKxx-QQxx", "range": "KKQ8-QQ54", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected KKxx-QQxx", "range": "KK95-QQ32", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected KKxx-QQxx", "range": "KK95-QQ32", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected KKxx-QQxx", "range": "KK95-QQ32", "position": "CO", "percentage": 0.5}, {"description": "Disconnected KKxx-QQxx", "range": "KK95-QQ32", "position": "BTN", "percentage": 1.0}, {"description": "Semi-connected JJxx-TTxx", "range": "KJJ8-TT54", "position": "LJ", "percentage": 0.0}, {"description": "Semi-connected JJxx-TTxx", "range": "KJJ8-TT54", "position": "HJ", "percentage": 0.0}, {"description": "Semi-connected JJxx-TTxx", "range": "KJJ8-TT54", "position": "CO", "percentage": 0.0}, {"description": "Semi-connected JJxx-TTxx", "range": "KJJ8-TT54", "position": "BTN", "percentage": 0.25}, {"description": "Disconnected JJxx-TTxx", "range": "KJJ7-TT32", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected JJxx-TTxx", "range": "KJJ7-TT32", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected JJxx-TTxx", "range": "KJJ7-TT32", "position": "CO", "percentage": 0.0}, {"description": "Disconnected JJxx-TTxx", "range": "KJJ7-TT32", "position": "BTN", "percentage": 0.25}, {"description": "Connected mid pairs", "range": "QJ99-7665", "position": "LJ", "percentage": 0.0}, {"description": "Connected mid pairs", "range": "QJ99-7665", "position": "HJ", "percentage": 0.0}, {"description": "Connected mid pairs", "range": "QJ99-7665", "position": "CO", "percentage": 0.0}, {"description": "Connected mid pairs", "range": "QJ99-7665", "position": "BTN", "percentage": 0.0}, {"description": "Disconnected mid pairs", "range": "A998-A662", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected mid pairs", "range": "A998-A662", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected mid pairs", "range": "A998-A662", "position": "CO", "percentage": 0.0}, {"description": "Disconnected mid pairs", "range": "A998-A662", "position": "BTN", "percentage": 0.0}, {"description": "Disconnected mid pairs w/ broadway", "range": "AK99-AT66", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected mid pairs w/ broadway", "range": "AK99-AT66", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected mid pairs w/ broadway", "range": "AK99-AT66", "position": "CO", "percentage": 0.0}, {"description": "Disconnected mid pairs w/ broadway", "range": "AK99-AT66", "position": "BTN", "percentage": 0.0}, {"description": "Connected low pairs", "range": "8755-4322", "position": "LJ", "percentage": 0.0}, {"description": "Connected low pairs", "range": "8755-4322", "position": "HJ", "percentage": 0.0}, {"description": "Connected low pairs", "range": "8755-4322", "position": "CO", "percentage": 0.0}, {"description": "Connected low pairs", "range": "8755-4322", "position": "BTN", "percentage": 0.0}, {"description": "Disconnected low pairs w/ broadway", "range": "AK55-AT22", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected low pairs w/ broadway", "range": "AK55-AT22", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected low pairs w/ broadway", "range": "AK55-AT22", "position": "CO", "percentage": 0.0}, {"description": "Disconnected low pairs w/ broadway", "range": "AK55-AT22", "position": "BTN", "percentage": 0.0}, {"description": "Disconnected low pairs", "range": "A955-6322", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected low pairs", "range": "A955-6322", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected low pairs", "range": "A955-6322", "position": "CO", "percentage": 0.0}, {"description": "Disconnected low pairs", "range": "A955-6322", "position": "BTN", "percentage": 0.0}, {"description": "Disconnected mid-low pairs", "range": "99T5-4322", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected mid-low pairs", "range": "99T5-4322", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected mid-low pairs", "range": "99T5-4322", "position": "CO", "percentage": 0.0}, {"description": "Disconnected mid-low pairs", "range": "99T5-4322", "position": "BTN", "percentage": 0.0}, {"description": "Doublepaired Aces", "range": "AAKK-AA22", "position": "LJ", "percentage": 1.0}, {"description": "Doublepaired Aces", "range": "AAKK-AA22", "position": "HJ", "percentage": 1.0}, {"description": "Doublepaired Aces", "range": "AAKK-AA22", "position": "CO", "percentage": 1.0}, {"description": "Doublepaired Aces", "range": "AAKK-AA22", "position": "BTN", "percentage": 1.0}, {"description": "Connected broadway doublepairs", "range": "KKQQ-JJTT", "position": "LJ", "percentage": 1.0}, {"description": "Connected broadway doublepairs", "range": "KKQQ-JJTT", "position": "HJ", "percentage": 1.0}, {"description": "Connected broadway doublepairs", "range": "KKQQ-JJTT", "position": "CO", "percentage": 1.0}, {"description": "Connected broadway doublepairs", "range": "KKQQ-JJTT", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected doublepaired KK and QQ ", "range": "KK99-QQ22", "position": "LJ", "percentage": 1.0}, {"description": "Disconnected doublepaired KK and QQ ", "range": "KK99-QQ22", "position": "HJ", "percentage": 1.0}, {"description": "Disconnected doublepaired KK and QQ ", "range": "KK99-QQ22", "position": "CO", "percentage": 1.0}, {"description": "Disconnected doublepaired KK and QQ ", "range": "KK99-QQ22", "position": "BTN", "percentage": 1.0}, {"description": "Connected mid doublepairs", "range": "JJ99-8877", "position": "LJ", "percentage": 1.0}, {"description": "Connected mid doublepairs", "range": "JJ99-8877", "position": "HJ", "percentage": 1.0}, {"description": "Connected mid doublepairs", "range": "JJ99-8877", "position": "CO", "percentage": 1.0}, {"description": "Connected mid doublepairs", "range": "JJ99-8877", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected doublepaired JJ and TT", "range": "JJ66-TT22", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected doublepaired JJ and TT", "range": "JJ66-TT22", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected doublepaired JJ and TT", "range": "JJ66-TT22", "position": "CO", "percentage": 1.0}, {"description": "Disconnected doublepaired JJ and TT", "range": "JJ66-TT22", "position": "BTN", "percentage": 1.0}, {"description": "Connected, low-mid doublepairs", "range": "8866-5533", "position": "LJ", "percentage": 0.0}, {"description": "Connected, low-mid doublepairs", "range": "8866-5533", "position": "HJ", "percentage": 0.0}, {"description": "Connected, low-mid doublepairs", "range": "8866-5533", "position": "CO", "percentage": 1.0}, {"description": "Connected, low-mid doublepairs", "range": "8866-5533", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected low-mid doublepairs", "range": "9966-3322", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected low-mid doublepairs", "range": "9966-3322", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected low-mid doublepairs", "range": "9966-3322", "position": "CO", "percentage": 1.0}, {"description": "Disconnected low-mid doublepairs", "range": "9966-3322", "position": "BTN", "percentage": 1.0}, {"description": "Doublepaired Aces", "range": "AAKK-AA22", "position": "LJ", "percentage": 1.0}, {"description": "Doublepaired Aces", "range": "AAKK-AA22", "position": "HJ", "percentage": 1.0}, {"description": "Doublepaired Aces", "range": "AAKK-AA22", "position": "CO", "percentage": 1.0}, {"description": "Doublepaired Aces", "range": "AAKK-AA22", "position": "BTN", "percentage": 1.0}, {"description": "Connected broadway doublepairs", "range": "KKQQ-JJTT", "position": "LJ", "percentage": 1.0}, {"description": "Connected broadway doublepairs", "range": "KKQQ-JJTT", "position": "HJ", "percentage": 1.0}, {"description": "Connected broadway doublepairs", "range": "KKQQ-JJTT", "position": "CO", "percentage": 1.0}, {"description": "Connected broadway doublepairs", "range": "KKQQ-JJTT", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected doublepaired KK and QQ ", "range": "KK99-QQ22", "position": "LJ", "percentage": 1.0}, {"description": "Disconnected doublepaired KK and QQ ", "range": "KK99-QQ22", "position": "HJ", "percentage": 1.0}, {"description": "Disconnected doublepaired KK and QQ ", "range": "KK99-QQ22", "position": "CO", "percentage": 1.0}, {"description": "Disconnected doublepaired KK and QQ ", "range": "KK99-QQ22", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected doublepaired JJ and TT", "range": "JJ66-TT22", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected doublepaired JJ and TT", "range": "JJ66-TT22", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected doublepaired JJ and TT", "range": "JJ66-TT22", "position": "CO", "percentage": 1.0}, {"description": "Disconnected doublepaired JJ and TT", "range": "JJ66-TT22", "position": "BTN", "percentage": 1.0}, {"description": "Connected, low-mid doublepairs", "range": "8866-5533", "position": "LJ", "percentage": 0.0}, {"description": "Connected, low-mid doublepairs", "range": "8866-5533", "position": "HJ", "percentage": 0.0}, {"description": "Connected, low-mid doublepairs", "range": "8866-5533", "position": "CO", "percentage": 0.5}, {"description": "Connected, low-mid doublepairs", "range": "8866-5533", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected low-mid doublepairs", "range": "9966-3322", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected low-mid doublepairs", "range": "9966-3322", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected low-mid doublepairs", "range": "9966-3322", "position": "CO", "percentage": 0.5}, {"description": "Disconnected low-mid doublepairs", "range": "9966-3322", "position": "BTN", "percentage": 1.0}, {"description": "Connected mid doublepairs", "range": "JJ99-8877", "position": "LJ", "percentage": 1.0}, {"description": "Connected mid doublepairs", "range": "JJ99-8877", "position": "HJ", "percentage": 1.0}, {"description": "Connected mid doublepairs", "range": "JJ99-8877", "position": "CO", "percentage": 1.0}, {"description": "Connected mid doublepairs", "range": "JJ99-8877", "position": "BTN", "percentage": 1.0}, {"description": "Doublepaired Aces", "range": "AAKK-AA22", "position": "LJ", "percentage": 1.0}, {"description": "Doublepaired Aces", "range": "AAKK-AA22", "position": "HJ", "percentage": 1.0}, {"description": "Doublepaired Aces", "range": "AAKK-AA22", "position": "CO", "percentage": 1.0}, {"description": "Doublepaired Aces", "range": "AAKK-AA22", "position": "BTN", "percentage": 1.0}, {"description": "Connected broadway doublepairs", "range": "KKQQ-JJTT", "position": "LJ", "percentage": 1.0}, {"description": "Connected broadway doublepairs", "range": "KKQQ-JJTT", "position": "HJ", "percentage": 1.0}, {"description": "Connected broadway doublepairs", "range": "KKQQ-JJTT", "position": "CO", "percentage": 1.0}, {"description": "Connected broadway doublepairs", "range": "KKQQ-JJTT", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected doublepaired KK and QQ ", "range": "KK99-QQ22", "position": "LJ", "percentage": 1.0}, {"description": "Disconnected doublepaired KK and QQ ", "range": "KK99-QQ22", "position": "HJ", "percentage": 1.0}, {"description": "Disconnected doublepaired KK and QQ ", "range": "KK99-QQ22", "position": "CO", "percentage": 1.0}, {"description": "Disconnected doublepaired KK and QQ ", "range": "KK99-QQ22", "position": "BTN", "percentage": 1.0}, {"description": "Connected mid doublepairs", "range": "JJ99-8877", "position": "LJ", "percentage": 0.0}, {"description": "Connected mid doublepairs", "range": "JJ99-8877", "position": "HJ", "percentage": 0.0}, {"description": "Connected mid doublepairs", "range": "JJ99-8877", "position": "CO", "percentage": 1.0}, {"description": "Connected mid doublepairs", "range": "JJ99-8877", "position": "BTN", "percentage": 1.0}, {"description": "Connected, low-mid doublepairs", "range": "8866-5533", "position": "LJ", "percentage": 0.0}, {"description": "Connected, low-mid doublepairs", "range": "8866-5533", "position": "HJ", "percentage": 0.0}, {"description": "Connected, low-mid doublepairs", "range": "8866-5533", "position": "CO", "percentage": 0.0}, {"description": "Connected, low-mid doublepairs", "range": "8866-5533", "position": "BTN", "percentage": 1.0}, {"description": "Disconnected low-mid doublepairs", "range": "9966-3322", "position": "LJ", "percentage": 0.0}, {"description": "Disconnected low-mid doublepairs", "range": "9966-3322", "position": "HJ", "percentage": 0.0}, {"description": "Disconnected low-mid doublepairs", "range": "9966-3322", "position": "CO", "percentage": 0.0}, {"description": "Disconnected low-mid doublepairs", "range": "9966-3322", "position": "BTN", "percentage": 1.0}]
+[
+    {
+        "description": "Connected A-high broadway",
+        "range": "AKQJ-AJT7",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "A-high, unp-ds"
+    },
+    {
+        "description": "Connected A-high broadway",
+        "range": "AKQJ-AJT7",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "A-high, unp-ds"
+    },
+    {
+        "description": "Connected A-high broadway",
+        "range": "AKQJ-AJT7",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "A-high, unp-ds"
+    },
+    {
+        "description": "Connected A-high broadway",
+        "range": "AKQJ-AJT7",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "A-high, unp-ds"
+    },
+    {
+        "description": "Semi-connected A-high broadway",
+        "range": "AKQ9-AJT2",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "A-high, unp-ds"
+    },
+    {
+        "description": "Semi-connected A-high broadway",
+        "range": "AKQ9-AJT2",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "Very connected, unp-ds"
+    },
+    {
+        "description": "Semi-connected A-high broadway",
+        "range": "AKQ9-AJT2",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "Very connected, unp-ds"
+    },
+    {
+        "description": "Semi-connected A-high broadway",
+        "range": "AKQ9-AJT2",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "Very connected, unp-ds"
+    },
+    {
+        "description": "Connected A-high non-broadway",
+        "range": "AQ98-A432",
+        "position": "LJ",
+        "percentage": 0.25,
+        "type": "Connected, unp-ds"
+    },
+    {
+        "description": "Connected A-high non-broadway",
+        "range": "AQ98-A432",
+        "position": "HJ",
+        "percentage": 0.5,
+        "type": "Connected, unp-ds"
+    },
+    {
+        "description": "Connected A-high non-broadway",
+        "range": "AQ98-A432",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "Connected, unp-ds"
+    },
+    {
+        "description": "Connected A-high non-broadway",
+        "range": "AQ98-A432",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "Connected, unp-ds"
+    },
+    {
+        "description": "Disconnected A-high (2-card) broadway",
+        "range": "AK98-AT32",
+        "position": "LJ",
+        "percentage": 0.5,
+        "type": "Disconnected / Ragged, unp-ds"
+    },
+    {
+        "description": "Disconnected A-high (2-card) broadway",
+        "range": "AK98-AT32",
+        "position": "HJ",
+        "percentage": 0.75,
+        "type": "Disconnected / Ragged, unp-ds"
+    },
+    {
+        "description": "Disconnected A-high (2-card) broadway",
+        "range": "AK98-AT32",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "A-high, unp-ss"
+    },
+    {
+        "description": "Disconnected A-high (2-card) broadway",
+        "range": "AK98-AT32",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "A-high, unp-ss"
+    },
+    {
+        "description": "Ragged A-high",
+        "range": "AK96-A643",
+        "position": "LJ",
+        "percentage": 0.05,
+        "type": "A-high, unp-ss"
+    },
+    {
+        "description": "Ragged A-high",
+        "range": "AK96-A643",
+        "position": "HJ",
+        "percentage": 0.15,
+        "type": "A-high, unp-ss"
+    },
+    {
+        "description": "Ragged A-high",
+        "range": "AK96-A643",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "A-high, unp-ss"
+    },
+    {
+        "description": "Ragged A-high",
+        "range": "AK96-A643",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "A-high, unp-ss"
+    },
+    {
+        "description": "Very connected K/Q-high broadway",
+        "range": "KQJT-QT98",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "A-high, unp-ss"
+    },
+    {
+        "description": "Very connected K/Q-high broadway",
+        "range": "KQJT-QT98",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "A-high, unp-ss"
+    },
+    {
+        "description": "Very connected K/Q-high broadway",
+        "range": "KQJT-QT98",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "A-high, unp-ss"
+    },
+    {
+        "description": "Very connected K/Q-high broadway",
+        "range": "KQJT-QT98",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "A-high, unp-ss"
+    },
+    {
+        "description": "Very connected mid-high",
+        "range": "JT98-T876",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "Very connected, unp-ss"
+    },
+    {
+        "description": "Very connected mid-high",
+        "range": "JT98-T876",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "Very connected, unp-ss"
+    },
+    {
+        "description": "Very connected mid-high",
+        "range": "JT98-T876",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "Very connected, unp-ss"
+    },
+    {
+        "description": "Very connected mid-high",
+        "range": "JT98-T876",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "Connected, unp-ss"
+    },
+    {
+        "description": "Very connected low",
+        "range": "9876-5432",
+        "position": "LJ",
+        "percentage": 0.25,
+        "type": "Connected, unp-ss"
+    },
+    {
+        "description": "Very connected low",
+        "range": "9876-5432",
+        "position": "HJ",
+        "percentage": 0.5,
+        "type": "Connected, unp-ss"
+    },
+    {
+        "description": "Very connected low",
+        "range": "9876-5432",
+        "position": "CO",
+        "percentage": 0.75,
+        "type": "Connected, unp-ss"
+    },
+    {
+        "description": "Very connected low",
+        "range": "9876-5432",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "Connected, unp-ss"
+    },
+    {
+        "description": "Connected near-broadway",
+        "range": "KQJ8-QT85",
+        "position": "LJ",
+        "percentage": 0.5,
+        "type": "Disconnected / Ragged, unp-ss"
+    },
+    {
+        "description": "Connected near-broadway",
+        "range": "KQJ8-QT85",
+        "position": "HJ",
+        "percentage": 0.5,
+        "type": "Disconnected / Ragged, unp-ss"
+    },
+    {
+        "description": "Connected near-broadway",
+        "range": "KQJ8-QT85",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "A-high, unp-rr"
+    },
+    {
+        "description": "Connected near-broadway",
+        "range": "KQJ8-QT85",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "A-high, unp-rr"
+    },
+    {
+        "description": "Connected 3-low with broadway kicker",
+        "range": "K987-Q542",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "A-high, unp-rr"
+    },
+    {
+        "description": "Connected 3-low with broadway kicker",
+        "range": "K987-Q542",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "A-high, unp-rr"
+    },
+    {
+        "description": "Connected 3-low with broadway kicker",
+        "range": "K987-Q542",
+        "position": "CO",
+        "percentage": 0.75,
+        "type": "A-high, unp-rr"
+    },
+    {
+        "description": "Connected 3-low with broadway kicker",
+        "range": "K987-Q542",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "Very connected, unp-rr"
+    },
+    {
+        "description": "Connected mid-high",
+        "range": "JT96-T754",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "Very connected, unp-rr"
+    },
+    {
+        "description": "Connected mid-high",
+        "range": "JT96-T754",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "Very connected, unp-rr"
+    },
+    {
+        "description": "Connected mid-high",
+        "range": "JT96-T754",
+        "position": "CO",
+        "percentage": 0.25,
+        "type": "Connected, unp-rr"
+    },
+    {
+        "description": "Connected mid-high",
+        "range": "JT96-T754",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "Connected, unp-rr"
+    },
+    {
+        "description": "Connected low",
+        "range": "9874-6432",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "Connected, unp-rr"
+    },
+    {
+        "description": "Connected low",
+        "range": "9874-6432",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "Connected, unp-rr"
+    },
+    {
+        "description": "Connected low",
+        "range": "9874-6432",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "Disconnected / Ragged, unp-rr"
+    },
+    {
+        "description": "Connected low",
+        "range": "9874-6432",
+        "position": "BTN",
+        "percentage": 0.75,
+        "type": "Disconnected / Ragged, unp-rr"
+    },
+    {
+        "description": "Disconnected K/Q/J-high, 2 card broadway",
+        "range": "KQ96-JT32",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected K/Q/J-high, 2 card broadway",
+        "range": "KQ96-JT32",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected K/Q/J-high, 2 card broadway",
+        "range": "KQ96-JT32",
+        "position": "CO",
+        "percentage": 0.25,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected K/Q/J-high, 2 card broadway",
+        "range": "KQ96-JT32",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Ragged disconnected",
+        "range": "K975-8432",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Ragged disconnected",
+        "range": "K975-8432",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Ragged disconnected",
+        "range": "K975-8432",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Ragged disconnected",
+        "range": "K975-8432",
+        "position": "BTN",
+        "percentage": 0.75,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Connected A-high broadway, suited ace",
+        "range": "AKQJ-AJT7",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Connected A-high broadway, suited ace",
+        "range": "AKQJ-AJT7",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Connected A-high broadway, suited ace",
+        "range": "AKQJ-AJT7",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Connected A-high broadway, suited ace",
+        "range": "AKQJ-AJT7",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Connected A-high broadway, unsuited ace",
+        "range": "AKQJ-AJT7",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Connected A-high broadway, unsuited ace",
+        "range": "AKQJ-AJT7",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Connected A-high broadway, unsuited ace",
+        "range": "AKQJ-AJT7",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Connected A-high broadway, unsuited ace",
+        "range": "AKQJ-AJT7",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Semi-connected A-high broadway, suited ace",
+        "range": "AKQ9-AJT2",
+        "position": "LJ",
+        "percentage": 0.5,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Semi-connected A-high broadway, suited ace",
+        "range": "AKQ9-AJT2",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Semi-connected A-high broadway, suited ace",
+        "range": "AKQ9-AJT2",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Semi-connected A-high broadway, suited ace",
+        "range": "AKQ9-AJT2",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Semi-connected A-high broadway,unsuited ace",
+        "range": "AKQ9-AJT2",
+        "position": "LJ",
+        "percentage": 0.25,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Semi-connected A-high broadway,unsuited ace",
+        "range": "AKQ9-AJT2",
+        "position": "HJ",
+        "percentage": 0.25,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Semi-connected A-high broadway,unsuited ace",
+        "range": "AKQ9-AJT2",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Semi-connected A-high broadway,unsuited ace",
+        "range": "AKQ9-AJT2",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected A-high non-broadway, unsuited ace",
+        "range": "AQ98-A423",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected A-high non-broadway, unsuited ace",
+        "range": "AQ98-A423",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected A-high non-broadway, unsuited ace",
+        "range": "AQ98-A423",
+        "position": "CO",
+        "percentage": 0.25,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected A-high non-broadway, unsuited ace",
+        "range": "AQ98-A423",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected A-high non-broadway, suited ace",
+        "range": "AQ98-A432",
+        "position": "LJ",
+        "percentage": 0.1,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected A-high non-broadway, suited ace",
+        "range": "AQ98-A432",
+        "position": "HJ",
+        "percentage": 0.25,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected A-high non-broadway, suited ace",
+        "range": "AQ98-A432",
+        "position": "CO",
+        "percentage": 0.25,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected A-high non-broadway, suited ace",
+        "range": "AQ98-A432",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Ragged A-high, suited ace",
+        "range": "AK96-A643",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Ragged A-high, suited ace",
+        "range": "AK96-A643",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Ragged A-high, suited ace",
+        "range": "AK96-A643",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Ragged A-high, suited ace",
+        "range": "AK96-A643",
+        "position": "BTN",
+        "percentage": 0.75,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Ragged A-high, unsuited ace",
+        "range": "AK96-A643",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Ragged A-high, unsuited ace",
+        "range": "AK96-A643",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Ragged A-high, unsuited ace",
+        "range": "AK96-A643",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Ragged A-high, unsuited ace",
+        "range": "AK96-A643",
+        "position": "BTN",
+        "percentage": 0.75,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected A-high (2-card) broadway, suited ace",
+        "range": "AK98-AT32",
+        "position": "LJ",
+        "percentage": 0.25,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected A-high (2-card) broadway, suited ace",
+        "range": "AK98-AT32",
+        "position": "HJ",
+        "percentage": 0.5,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected A-high (2-card) broadway, suited ace",
+        "range": "AK98-AT32",
+        "position": "CO",
+        "percentage": 0.5,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected A-high (2-card) broadway, suited ace",
+        "range": "AK98-AT32",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected A-high (2-card) broadway, unsuited ace",
+        "range": "AK98-AT32",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected A-high (2-card) broadway, unsuited ace",
+        "range": "AK98-AT32",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected A-high (2-card) broadway, unsuited ace",
+        "range": "AK98-AT32",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected A-high (2-card) broadway, unsuited ace",
+        "range": "AK98-AT32",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Very connected K/Q-high broadway",
+        "range": "KQJT-QT98",
+        "position": "LJ",
+        "percentage": 0.75,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Very connected K/Q-high broadway",
+        "range": "KQJT-QT98",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Very connected K/Q-high broadway",
+        "range": "KQJT-QT98",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Very connected K/Q-high broadway",
+        "range": "KQJT-QT98",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Very connected mid-high",
+        "range": "JT98-T876",
+        "position": "LJ",
+        "percentage": 0.25,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Very connected mid-high",
+        "range": "JT98-T876",
+        "position": "HJ",
+        "percentage": 0.5,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Very connected mid-high",
+        "range": "JT98-T876",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Very connected mid-high",
+        "range": "JT98-T876",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Very connected low",
+        "range": "9876-5432",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Very connected low",
+        "range": "9876-5432",
+        "position": "HJ",
+        "percentage": 0.25,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Very connected low",
+        "range": "9876-5432",
+        "position": "CO",
+        "percentage": 0.25,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Very connected low",
+        "range": "9876-5432",
+        "position": "BTN",
+        "percentage": 0.5,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Connected near-broadway",
+        "range": "KQJ8-QT85",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Connected near-broadway",
+        "range": "KQJ8-QT85",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Connected near-broadway",
+        "range": "KQJ8-QT85",
+        "position": "CO",
+        "percentage": 0.5,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Connected near-broadway",
+        "range": "KQJ8-QT85",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Connected 3-low with broadway kicker, broadway suit",
+        "range": "K987-Q542",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Connected 3-low with broadway kicker, broadway suit",
+        "range": "K987-Q542",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Connected 3-low with broadway kicker, broadway suit",
+        "range": "K987-Q542",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Connected 3-low with broadway kicker, broadway suit",
+        "range": "K987-Q542",
+        "position": "BTN",
+        "percentage": 0.5,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Connected 3-low with broadway kicker, non-broadway suit",
+        "range": "K987-Q542",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Connected 3-low with broadway kicker, non-broadway suit",
+        "range": "K987-Q542",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Connected 3-low with broadway kicker, non-broadway suit",
+        "range": "K987-Q542",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Connected 3-low with broadway kicker, non-broadway suit",
+        "range": "K987-Q542",
+        "position": "BTN",
+        "percentage": 0.0,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Connected mid-high",
+        "range": "JT96-T754",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Connected mid-high",
+        "range": "JT96-T754",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Connected mid-high",
+        "range": "JT96-T754",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Connected mid-high",
+        "range": "JT96-T754",
+        "position": "BTN",
+        "percentage": 0.5,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Connected low",
+        "range": "9874-6432",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Connected low",
+        "range": "9874-6432",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Connected low",
+        "range": "9874-6432",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Connected low",
+        "range": "9874-6432",
+        "position": "BTN",
+        "percentage": 0.0,
+        "type": "2p-rr"
+    },
+    {
+        "description": "Disconnected K/Q/J-high, 2 card broadway",
+        "range": "KQ96-JT32",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "2p-rr"
+    },
+    {
+        "description": "Disconnected K/Q/J-high, 2 card broadway",
+        "range": "KQ96-JT32",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "2p-rr"
+    },
+    {
+        "description": "Disconnected K/Q/J-high, 2 card broadway",
+        "range": "KQ96-JT32",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "2p-rr"
+    },
+    {
+        "description": "Disconnected K/Q/J-high, 2 card broadway",
+        "range": "KQ96-JT32",
+        "position": "BTN",
+        "percentage": 0.5,
+        "type": "2p-rr"
+    },
+    {
+        "description": "Ragged disconnected",
+        "range": "K984-T632",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "2p-rr"
+    },
+    {
+        "description": "Ragged disconnected",
+        "range": "K984-T632",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Ragged disconnected",
+        "range": "K984-T632",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Ragged disconnected",
+        "range": "K984-T632",
+        "position": "BTN",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Connected A-high broadway",
+        "range": "AKQJ-AJT7",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Connected A-high broadway",
+        "range": "AKQJ-AJT7",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Connected A-high broadway",
+        "range": "AKQJ-AJT7",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "Very connected"
+    },
+    {
+        "description": "Connected A-high broadway",
+        "range": "AKQJ-AJT7",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "Very connected"
+    },
+    {
+        "description": "Semi-connected A-high broadway",
+        "range": "AKQ9-AJT2",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "Very connected"
+    },
+    {
+        "description": "Semi-connected A-high broadway",
+        "range": "AKQ9-AJT2",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Semi-connected A-high broadway",
+        "range": "AKQ9-AJT2",
+        "position": "CO",
+        "percentage": 0.25,
+        "type": "Connected"
+    },
+    {
+        "description": "Semi-connected A-high broadway",
+        "range": "AKQ9-AJT2",
+        "position": "BTN",
+        "percentage": 0.25,
+        "type": "Connected"
+    },
+    {
+        "description": "Connected A-high non-broadway",
+        "range": "AQ98-A432",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Connected A-high non-broadway",
+        "range": "AQ98-A432",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "Disconnected / Ragged"
+    },
+    {
+        "description": "Connected A-high non-broadway",
+        "range": "AQ98-A432",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "Disconnected / Ragged"
+    },
+    {
+        "description": "Connected A-high non-broadway",
+        "range": "AQ98-A432",
+        "position": "BTN",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected A-high (2-card) broadway",
+        "range": "AK98-AT32",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected A-high (2-card) broadway",
+        "range": "AK98-AT32",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected A-high (2-card) broadway",
+        "range": "AK98-AT32",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected A-high (2-card) broadway",
+        "range": "AK98-AT32",
+        "position": "BTN",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Ragged A-high",
+        "range": "A984-A743",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Ragged A-high",
+        "range": "A984-A743",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Ragged A-high",
+        "range": "A984-A743",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Ragged A-high",
+        "range": "A984-A743",
+        "position": "BTN",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Very connected K/Q-high broadway",
+        "range": "KQJT-QT98",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Very connected K/Q-high broadway",
+        "range": "KQJT-QT98",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "Very connected"
+    },
+    {
+        "description": "Very connected K/Q-high broadway",
+        "range": "KQJT-QT98",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "Very connected"
+    },
+    {
+        "description": "Very connected K/Q-high broadway",
+        "range": "KQJT-QT98",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "Very connected"
+    },
+    {
+        "description": "Very connected mid-high",
+        "range": "JT98-T876",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Very connected mid-high",
+        "range": "JT98-T876",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Very connected mid-high",
+        "range": "JT98-T876",
+        "position": "CO",
+        "percentage": 0.25,
+        "type": "Connected"
+    },
+    {
+        "description": "Very connected mid-high",
+        "range": "JT98-T876",
+        "position": "BTN",
+        "percentage": 0.5,
+        "type": "Connected"
+    },
+    {
+        "description": "Very connected low",
+        "range": "9876-5432",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Very connected low",
+        "range": "9876-5432",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "Disconnected / Ragged"
+    },
+    {
+        "description": "Very connected low",
+        "range": "9876-5432",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "Disconnected / Ragged"
+    },
+    {
+        "description": "Very connected low",
+        "range": "9876-5432",
+        "position": "BTN",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Connected near-broadway",
+        "range": "KQJ8-QT85",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Connected near-broadway",
+        "range": "KQJ8-QT85",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Connected near-broadway",
+        "range": "KQJ8-QT85",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Connected near-broadway",
+        "range": "KQJ8-QT85",
+        "position": "BTN",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Connected 3-low with broadway kicker",
+        "range": "K987-Q542",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "Very connected"
+    },
+    {
+        "description": "Connected 3-low with broadway kicker",
+        "range": "K987-Q542",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "Very connected"
+    },
+    {
+        "description": "Connected 3-low with broadway kicker",
+        "range": "K987-Q542",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "Very connected"
+    },
+    {
+        "description": "Connected 3-low with broadway kicker",
+        "range": "K987-Q542",
+        "position": "BTN",
+        "percentage": 0.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Connected mid-high",
+        "range": "JT96-T754",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Connected mid-high",
+        "range": "JT96-T754",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Connected mid-high",
+        "range": "JT96-T754",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Connected mid-high",
+        "range": "JT96-T754",
+        "position": "BTN",
+        "percentage": 0.0,
+        "type": "Disconnected / Ragged"
+    },
+    {
+        "description": "Connected low",
+        "range": "9874-6432",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "Disconnected / Ragged"
+    },
+    {
+        "description": "Connected low",
+        "range": "9874-6432",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Connected low",
+        "range": "9874-6432",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Connected low",
+        "range": "9874-6432",
+        "position": "BTN",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected K/Q/J-high, 2 card broadway",
+        "range": "KQ96-JT32",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected K/Q/J-high, 2 card broadway",
+        "range": "KQ96-JT32",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected K/Q/J-high, 2 card broadway",
+        "range": "KQ96-JT32",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected K/Q/J-high, 2 card broadway",
+        "range": "KQ96-JT32",
+        "position": "BTN",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Ragged disconnected",
+        "range": "K975-8432",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Ragged disconnected",
+        "range": "K975-8432",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Ragged disconnected",
+        "range": "K975-8432",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Ragged disconnected",
+        "range": "K975-8432",
+        "position": "BTN",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Connected Aaxx",
+        "range": "AAKQ-AA43",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Connected Aaxx",
+        "range": "AAKQ-AA43",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Connected Aaxx",
+        "range": "AAKQ-AA43",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Connected Aaxx",
+        "range": "AAKQ-AA43",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected Aaxx",
+        "range": "AAK9-AA62",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected Aaxx",
+        "range": "AAK9-AA62",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected Aaxx",
+        "range": "AAK9-AA62",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected Aaxx",
+        "range": "AAK9-AA62",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Connected broadway pair with Ace",
+        "range": "AKKQ-ATT8",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Connected broadway pair with Ace",
+        "range": "AKKQ-ATT8",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Connected broadway pair with Ace",
+        "range": "AKKQ-ATT8",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected broadway pair with Ace",
+        "range": "AKKQ-ATT8",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected broadway pair, no Ace",
+        "range": "KKQJ-QJJ8",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected broadway pair, no Ace",
+        "range": "KKQJ-QJJ8",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected broadway pair, no Ace",
+        "range": "KKQJ-QJJ8",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected broadway pair, no Ace",
+        "range": "KKQJ-QJJ8",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected mid-high pair",
+        "range": "JJT9-TT76",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected mid-high pair",
+        "range": "JJT9-TT76",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected mid-high pair",
+        "range": "JJT9-TT76",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected mid-high pair",
+        "range": "JJT9-TT76",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected AKKx-AQQx",
+        "range": "AKK9-AQQ2",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected AKKx-AQQx",
+        "range": "AKK9-AQQ2",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected AKKx-AQQx",
+        "range": "AKK9-AQQ2",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected AKKx-AQQx",
+        "range": "AKK9-AQQ2",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected AJJx-ATTx",
+        "range": "AJJ8-ATT2",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected AJJx-ATTx",
+        "range": "AJJ8-ATT2",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected AJJx-ATTx",
+        "range": "AJJ8-ATT2",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected AJJx-ATTx",
+        "range": "AJJ8-ATT2",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Semi-connected KKxx-QQxx",
+        "range": "KKQ8-QQ54",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Semi-connected KKxx-QQxx",
+        "range": "KKQ8-QQ54",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Semi-connected KKxx-QQxx",
+        "range": "KKQ8-QQ54",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Semi-connected KKxx-QQxx",
+        "range": "KKQ8-QQ54",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected KKxx-QQxx",
+        "range": "KK95-QQ32",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected KKxx-QQxx",
+        "range": "KK95-QQ32",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected KKxx-QQxx",
+        "range": "KK95-QQ32",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected KKxx-QQxx",
+        "range": "KK95-QQ32",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Semi-connected JJxx-TTxx",
+        "range": "KJJ8-TT54",
+        "position": "LJ",
+        "percentage": 0.25,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Semi-connected JJxx-TTxx",
+        "range": "KJJ8-TT54",
+        "position": "HJ",
+        "percentage": 0.25,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Semi-connected JJxx-TTxx",
+        "range": "KJJ8-TT54",
+        "position": "CO",
+        "percentage": 0.5,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Semi-connected JJxx-TTxx",
+        "range": "KJJ8-TT54",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected JJxx-TTxx",
+        "range": "KJJ7-TT32",
+        "position": "LJ",
+        "percentage": 0.25,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected JJxx-TTxx",
+        "range": "KJJ7-TT32",
+        "position": "HJ",
+        "percentage": 0.25,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected JJxx-TTxx",
+        "range": "KJJ7-TT32",
+        "position": "CO",
+        "percentage": 0.5,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected JJxx-TTxx",
+        "range": "KJJ7-TT32",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Connected mid pairs",
+        "range": "QJ99-7665",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Connected mid pairs",
+        "range": "QJ99-7665",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Connected mid pairs",
+        "range": "QJ99-7665",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Connected mid pairs",
+        "range": "QJ99-7665",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected mid pairs, suited ace",
+        "range": "A998-A662",
+        "position": "LJ",
+        "percentage": 0.5,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected mid pairs, suited ace",
+        "range": "A998-A662",
+        "position": "HJ",
+        "percentage": 0.5,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected mid pairs, suited ace",
+        "range": "A998-A662",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected mid pairs, suited ace",
+        "range": "A998-A662",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected mid pairs w/ broadway, suited ace",
+        "range": "AK99-AT66",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected mid pairs w/ broadway, suited ace",
+        "range": "AK99-AT66",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected mid pairs w/ broadway, suited ace",
+        "range": "AK99-AT66",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Disconnected mid pairs w/ broadway, suited ace",
+        "range": "AK99-AT66",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Disconnected mid pairs w/ broadway, no ace",
+        "range": "KQ99-JT66",
+        "position": "LJ",
+        "percentage": 0.25,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Disconnected mid pairs w/ broadway, no ace",
+        "range": "KQ99-JT66",
+        "position": "HJ",
+        "percentage": 0.25,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Disconnected mid pairs w/ broadway, no ace",
+        "range": "KQ99-JT66",
+        "position": "CO",
+        "percentage": 0.75,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Disconnected mid pairs w/ broadway, no ace",
+        "range": "KQ99-JT66",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Disconnected mid pairs, no ace",
+        "range": "K998-7662",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Disconnected mid pairs, no ace",
+        "range": "K998-7662",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Disconnected mid pairs, no ace",
+        "range": "K998-7662",
+        "position": "CO",
+        "percentage": 0.25,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Disconnected mid pairs, no ace",
+        "range": "K998-7662",
+        "position": "BTN",
+        "percentage": 0.75,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Connected low pairs",
+        "range": "8755-4322",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Connected low pairs",
+        "range": "8755-4322",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Connected low pairs",
+        "range": "8755-4322",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Connected low pairs",
+        "range": "8755-4322",
+        "position": "BTN",
+        "percentage": 0.25,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Disconnected low pairs w/ broadway",
+        "range": "AK55-AT22",
+        "position": "LJ",
+        "percentage": 0.33,
+        "type": "2p-rr"
+    },
+    {
+        "description": "Disconnected low pairs w/ broadway",
+        "range": "AK55-AT22",
+        "position": "HJ",
+        "percentage": 0.33,
+        "type": "2p-rr"
+    },
+    {
+        "description": "Disconnected low pairs w/ broadway",
+        "range": "AK55-AT22",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "2p-rr"
+    },
+    {
+        "description": "Disconnected low pairs w/ broadway",
+        "range": "AK55-AT22",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "2p-rr"
+    },
+    {
+        "description": "Disconnected low pairs w/ broadway, no ace",
+        "range": "KQ55-JT22",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "2p-rr"
+    },
+    {
+        "description": "Disconnected low pairs w/ broadway, no ace",
+        "range": "KQ55-JT22",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "2p-rr"
+    },
+    {
+        "description": "Disconnected low pairs w/ broadway, no ace",
+        "range": "KQ55-JT22",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected low pairs w/ broadway, no ace",
+        "range": "KQ55-JT22",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected low pairs,  w an ace",
+        "range": "A955-A322",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected low pairs,  w an ace",
+        "range": "A955-A322",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected low pairs,  w an ace",
+        "range": "A955-A322",
+        "position": "CO",
+        "percentage": 0.5,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected low pairs,  w an ace",
+        "range": "A955-A322",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "Very connected"
+    },
+    {
+        "description": "Disconnected low pairs,  w/o ace",
+        "range": "K955-6322",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "Very connected"
+    },
+    {
+        "description": "Disconnected low pairs,  w/o ace",
+        "range": "K955-6322",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "Very connected"
+    },
+    {
+        "description": "Disconnected low pairs,  w/o ace",
+        "range": "K955-6322",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Disconnected low pairs,  w/o ace",
+        "range": "K955-6322",
+        "position": "BTN",
+        "percentage": 0.25,
+        "type": "Connected"
+    },
+    {
+        "description": "Connected AAxx, suited ace",
+        "range": "AAKQ-AA43",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Connected AAxx, suited ace",
+        "range": "AAKQ-AA43",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Connected AAxx, suited ace",
+        "range": "AAKQ-AA43",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "Disconnected / Ragged"
+    },
+    {
+        "description": "Connected AAxx, suited ace",
+        "range": "AAKQ-AA43",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "Disconnected / Ragged"
+    },
+    {
+        "description": "Connected AAxx, unsuited ace",
+        "range": "AAKQ-AA43",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Connected AAxx, unsuited ace",
+        "range": "AAKQ-AA43",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Connected AAxx, unsuited ace",
+        "range": "AAKQ-AA43",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Connected AAxx, unsuited ace",
+        "range": "AAKQ-AA43",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected AAxx, suited ace",
+        "range": "AAK9-AA62",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected AAxx, suited ace",
+        "range": "AAK9-AA62",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected AAxx, suited ace",
+        "range": "AAK9-AA62",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected AAxx, suited ace",
+        "range": "AAK9-AA62",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected AAxx, unsuited ace",
+        "range": "AAK9-AA62",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected AAxx, unsuited ace",
+        "range": "AAK9-AA62",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected AAxx, unsuited ace",
+        "range": "AAK9-AA62",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "Very connected"
+    },
+    {
+        "description": "Disconnected AAxx, unsuited ace",
+        "range": "AAK9-AA62",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "Very connected"
+    },
+    {
+        "description": "Connected broadway pair with Ace, suited ace",
+        "range": "AKKQ-ATT8",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "Very connected"
+    },
+    {
+        "description": "Connected broadway pair with Ace, suited ace",
+        "range": "AKKQ-ATT8",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Connected broadway pair with Ace, suited ace",
+        "range": "AKKQ-ATT8",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Connected broadway pair with Ace, suited ace",
+        "range": "AKKQ-ATT8",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Connected broadway pair with Ace, unsuited ace",
+        "range": "AKKQ-ATT8",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Connected broadway pair with Ace, unsuited ace",
+        "range": "AKKQ-ATT8",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Connected broadway pair with Ace, unsuited ace",
+        "range": "AKKQ-ATT8",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "Disconnected / Ragged"
+    },
+    {
+        "description": "Connected broadway pair with Ace, unsuited ace",
+        "range": "AKKQ-ATT8",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "Disconnected / Ragged"
+    },
+    {
+        "description": "Connected broadway pair, no Ace",
+        "range": "KKQJ-QJJ8",
+        "position": "LJ",
+        "percentage": 0.5,
+        "type": "A-high"
+    },
+    {
+        "description": "Connected broadway pair, no Ace",
+        "range": "KKQJ-QJJ8",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Connected broadway pair, no Ace",
+        "range": "KKQJ-QJJ8",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Connected broadway pair, no Ace",
+        "range": "KKQJ-QJJ8",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Connected mid-high pair",
+        "range": "JJT9-TT76",
+        "position": "LJ",
+        "percentage": 0.33,
+        "type": "A-high"
+    },
+    {
+        "description": "Connected mid-high pair",
+        "range": "JJT9-TT76",
+        "position": "HJ",
+        "percentage": 0.33,
+        "type": "Very connected"
+    },
+    {
+        "description": "Connected mid-high pair",
+        "range": "JJT9-TT76",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "Very connected"
+    },
+    {
+        "description": "Connected mid-high pair",
+        "range": "JJT9-TT76",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "Very connected"
+    },
+    {
+        "description": "Disconnected AKKx-AQQx, suited ace",
+        "range": "AKK9-AQQ2",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Disconnected AKKx-AQQx, suited ace",
+        "range": "AKK9-AQQ2",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Disconnected AKKx-AQQx, suited ace",
+        "range": "AKK9-AQQ2",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Disconnected AKKx-AQQx, suited ace",
+        "range": "AKK9-AQQ2",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Disconnected AKKx-AQQx, unsuited ace",
+        "range": "AKK9-AQQ2",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "Disconnected / Ragged"
+    },
+    {
+        "description": "Disconnected AKKx-AQQx, unsuited ace",
+        "range": "AKK9-AQQ2",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "Disconnected / Ragged"
+    },
+    {
+        "description": "Disconnected AKKx-AQQx, unsuited ace",
+        "range": "AKK9-AQQ2",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected AKKx-AQQx, unsuited ace",
+        "range": "AKK9-AQQ2",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected AJJx-ATTx, suited ace",
+        "range": "AJJ8-ATT2",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected AJJx-ATTx, suited ace",
+        "range": "AJJ8-ATT2",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected AJJx-ATTx, suited ace",
+        "range": "AJJ8-ATT2",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected AJJx-ATTx, suited ace",
+        "range": "AJJ8-ATT2",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected AJJx-ATTx, unsuited ace",
+        "range": "AJJ8-ATT2",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected AJJx-ATTx, unsuited ace",
+        "range": "AJJ8-ATT2",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected AJJx-ATTx, unsuited ace",
+        "range": "AJJ8-ATT2",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected AJJx-ATTx, unsuited ace",
+        "range": "AJJ8-ATT2",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Semi-connected KKxx-QQxx",
+        "range": "KKQ8-QQ54",
+        "position": "LJ",
+        "percentage": 0.5,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Semi-connected KKxx-QQxx",
+        "range": "KKQ8-QQ54",
+        "position": "HJ",
+        "percentage": 0.5,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Semi-connected KKxx-QQxx",
+        "range": "KKQ8-QQ54",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Semi-connected KKxx-QQxx",
+        "range": "KKQ8-QQ54",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected KKxx-QQxx",
+        "range": "KK95-QQ32",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected KKxx-QQxx",
+        "range": "KK95-QQ32",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected KKxx-QQxx",
+        "range": "KK95-QQ32",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected KKxx-QQxx",
+        "range": "KK95-QQ32",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Semi-connected JJxx-TTxx",
+        "range": "KJJ7-TT54",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Semi-connected JJxx-TTxx",
+        "range": "KJJ7-TT54",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Semi-connected JJxx-TTxx",
+        "range": "KJJ7-TT54",
+        "position": "CO",
+        "percentage": 0.25,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Semi-connected JJxx-TTxx",
+        "range": "KJJ7-TT54",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected JJxx-TTxx",
+        "range": "KJJ7-TT32",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected JJxx-TTxx",
+        "range": "KJJ7-TT32",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected JJxx-TTxx",
+        "range": "KJJ7-TT32",
+        "position": "CO",
+        "percentage": 0.25,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected JJxx-TTxx",
+        "range": "KJJ7-TT32",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected mid-pairs",
+        "range": "QJ99-7665",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected mid-pairs",
+        "range": "QJ99-7665",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected mid-pairs",
+        "range": "QJ99-7665",
+        "position": "CO",
+        "percentage": 0.25,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected mid-pairs",
+        "range": "QJ99-7665",
+        "position": "BTN",
+        "percentage": 0.5,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected mid pairs w Ace",
+        "range": "AK99-AT66",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected mid pairs w Ace",
+        "range": "AK99-AT66",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected mid pairs w Ace",
+        "range": "AK99-AT66",
+        "position": "CO",
+        "percentage": 0.75,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected mid pairs w Ace",
+        "range": "AK99-AT66",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected mid pairs w/ broadway",
+        "range": "KQ99-JT66",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected mid pairs w/ broadway",
+        "range": "KQ99-JT66",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected mid pairs w/ broadway",
+        "range": "KQ99-JT66",
+        "position": "CO",
+        "percentage": 0.25,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected mid pairs w/ broadway",
+        "range": "KQ99-JT66",
+        "position": "BTN",
+        "percentage": 0.75,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected mid pairs",
+        "range": "A998-A662",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected mid pairs",
+        "range": "A998-A662",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected mid pairs",
+        "range": "A998-A662",
+        "position": "CO",
+        "percentage": 0.5,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected mid pairs",
+        "range": "A998-A662",
+        "position": "BTN",
+        "percentage": 0.75,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected mid pairs, nosuited ace",
+        "range": "K998-7662",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected mid pairs, nosuited ace",
+        "range": "K998-7662",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected mid pairs, nosuited ace",
+        "range": "K998-7662",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected mid pairs, nosuited ace",
+        "range": "K998-7662",
+        "position": "BTN",
+        "percentage": 0.25,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected low pairs w broadway, w ace",
+        "range": "AK55-AT22",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected low pairs w broadway, w ace",
+        "range": "AK55-AT22",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected low pairs w broadway, w ace",
+        "range": "AK55-AT22",
+        "position": "CO",
+        "percentage": 0.5,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected low pairs w broadway, w ace",
+        "range": "AK55-AT22",
+        "position": "BTN",
+        "percentage": 0.5,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected low pairs w broadway, no ace",
+        "range": "KQ55-JT22",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected low pairs w broadway, no ace",
+        "range": "KQ55-JT22",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected low pairs w broadway, no ace",
+        "range": "KQ55-JT22",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected low pairs w broadway, no ace",
+        "range": "KQ55-JT22",
+        "position": "BTN",
+        "percentage": 0.25,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Connected low-pairs",
+        "range": "8755-4322",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Connected low-pairs",
+        "range": "8755-4322",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Connected low-pairs",
+        "range": "8755-4322",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Connected low-pairs",
+        "range": "8755-4322",
+        "position": "BTN",
+        "percentage": 0.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected low pairs, no ace",
+        "range": "K955-6322",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected low pairs, no ace",
+        "range": "K955-6322",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected low pairs, no ace",
+        "range": "K955-6322",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected low pairs, no ace",
+        "range": "K955-6322",
+        "position": "BTN",
+        "percentage": 0.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected low pairs",
+        "range": "A955-A322",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected low pairs",
+        "range": "A955-A322",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected low pairs",
+        "range": "A955-A322",
+        "position": "CO",
+        "percentage": 0.25,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected low pairs",
+        "range": "A955-A322",
+        "position": "BTN",
+        "percentage": 0.5,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Connected Aaxx",
+        "range": "AAKQ-AA43",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Connected Aaxx",
+        "range": "AAKQ-AA43",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Connected Aaxx",
+        "range": "AAKQ-AA43",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Connected Aaxx",
+        "range": "AAKQ-AA43",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Disconnected Aaxx",
+        "range": "AAK9-AA62",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Disconnected Aaxx",
+        "range": "AAK9-AA62",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Disconnected Aaxx",
+        "range": "AAK9-AA62",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Disconnected Aaxx",
+        "range": "AAK9-AA62",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Connected broadway pair with Ace",
+        "range": "AKKQ-ATT8",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Connected broadway pair with Ace",
+        "range": "AKKQ-ATT8",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Connected broadway pair with Ace",
+        "range": "AKKQ-ATT8",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Connected broadway pair with Ace",
+        "range": "AKKQ-ATT8",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Connected broadway pair, no Ace",
+        "range": "KKQJ-QJJ8",
+        "position": "LJ",
+        "percentage": 0.25,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Connected broadway pair, no Ace",
+        "range": "KKQJ-QJJ8",
+        "position": "HJ",
+        "percentage": 0.5,
+        "type": "2p-rr"
+    },
+    {
+        "description": "Connected broadway pair, no Ace",
+        "range": "KKQJ-QJJ8",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "2p-rr"
+    },
+    {
+        "description": "Connected broadway pair, no Ace",
+        "range": "KKQJ-QJJ8",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "2p-rr"
+    },
+    {
+        "description": "Connected mid-high pair",
+        "range": "JJT9-TT76",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "2p-rr"
+    },
+    {
+        "description": "Connected mid-high pair",
+        "range": "JJT9-TT76",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "2p-rr"
+    },
+    {
+        "description": "Connected mid-high pair",
+        "range": "JJT9-TT76",
+        "position": "CO",
+        "percentage": 0.75,
+        "type": "2p-rr"
+    },
+    {
+        "description": "Connected mid-high pair",
+        "range": "JJT9-TT76",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected AKKx-AQQx",
+        "range": "AKK9-AQQ2",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected AKKx-AQQx",
+        "range": "AKK9-AQQ2",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected AKKx-AQQx",
+        "range": "AKK9-AQQ2",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected AKKx-AQQx",
+        "range": "AKK9-AQQ2",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected AJJx-ATTx",
+        "range": "AJJ9-ATT2",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "Very connected"
+    },
+    {
+        "description": "Disconnected AJJx-ATTx",
+        "range": "AJJ9-ATT2",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "Very connected"
+    },
+    {
+        "description": "Disconnected AJJx-ATTx",
+        "range": "AJJ9-ATT2",
+        "position": "CO",
+        "percentage": 0.5,
+        "type": "Very connected"
+    },
+    {
+        "description": "Disconnected AJJx-ATTx",
+        "range": "AJJ9-ATT2",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Semi-connected KKxx-QQxx",
+        "range": "KKQ8-QQ54",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Semi-connected KKxx-QQxx",
+        "range": "KKQ8-QQ54",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Semi-connected KKxx-QQxx",
+        "range": "KKQ8-QQ54",
+        "position": "CO",
+        "percentage": 0.5,
+        "type": "Connected"
+    },
+    {
+        "description": "Semi-connected KKxx-QQxx",
+        "range": "KKQ8-QQ54",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "Disconnected / Ragged"
+    },
+    {
+        "description": "Disconnected KKxx-QQxx",
+        "range": "KK95-QQ32",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "Disconnected / Ragged"
+    },
+    {
+        "description": "Disconnected KKxx-QQxx",
+        "range": "KK95-QQ32",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected KKxx-QQxx",
+        "range": "KK95-QQ32",
+        "position": "CO",
+        "percentage": 0.5,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected KKxx-QQxx",
+        "range": "KK95-QQ32",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Semi-connected JJxx-TTxx",
+        "range": "KJJ8-TT54",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Semi-connected JJxx-TTxx",
+        "range": "KJJ8-TT54",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Semi-connected JJxx-TTxx",
+        "range": "KJJ8-TT54",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Semi-connected JJxx-TTxx",
+        "range": "KJJ8-TT54",
+        "position": "BTN",
+        "percentage": 0.25,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected JJxx-TTxx",
+        "range": "KJJ7-TT32",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected JJxx-TTxx",
+        "range": "KJJ7-TT32",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected JJxx-TTxx",
+        "range": "KJJ7-TT32",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected JJxx-TTxx",
+        "range": "KJJ7-TT32",
+        "position": "BTN",
+        "percentage": 0.25,
+        "type": "Very connected"
+    },
+    {
+        "description": "Connected mid pairs",
+        "range": "QJ99-7665",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "Very connected"
+    },
+    {
+        "description": "Connected mid pairs",
+        "range": "QJ99-7665",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "Very connected"
+    },
+    {
+        "description": "Connected mid pairs",
+        "range": "QJ99-7665",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Connected mid pairs",
+        "range": "QJ99-7665",
+        "position": "BTN",
+        "percentage": 0.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Disconnected mid pairs",
+        "range": "A998-A662",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Disconnected mid pairs",
+        "range": "A998-A662",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Disconnected mid pairs",
+        "range": "A998-A662",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Disconnected mid pairs",
+        "range": "A998-A662",
+        "position": "BTN",
+        "percentage": 0.0,
+        "type": "Disconnected / Ragged"
+    },
+    {
+        "description": "Disconnected mid pairs w/ broadway",
+        "range": "AK99-AT66",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "Disconnected / Ragged"
+    },
+    {
+        "description": "Disconnected mid pairs w/ broadway",
+        "range": "AK99-AT66",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected mid pairs w/ broadway",
+        "range": "AK99-AT66",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Disconnected mid pairs w/ broadway",
+        "range": "AK99-AT66",
+        "position": "BTN",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Connected low pairs",
+        "range": "8755-4322",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Connected low pairs",
+        "range": "8755-4322",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "A-high"
+    },
+    {
+        "description": "Connected low pairs",
+        "range": "8755-4322",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "Very connected"
+    },
+    {
+        "description": "Connected low pairs",
+        "range": "8755-4322",
+        "position": "BTN",
+        "percentage": 0.0,
+        "type": "Very connected"
+    },
+    {
+        "description": "Disconnected low pairs w/ broadway",
+        "range": "AK55-AT22",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "Very connected"
+    },
+    {
+        "description": "Disconnected low pairs w/ broadway",
+        "range": "AK55-AT22",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Disconnected low pairs w/ broadway",
+        "range": "AK55-AT22",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Disconnected low pairs w/ broadway",
+        "range": "AK55-AT22",
+        "position": "BTN",
+        "percentage": 0.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Disconnected low pairs",
+        "range": "A955-6322",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "Connected"
+    },
+    {
+        "description": "Disconnected low pairs",
+        "range": "A955-6322",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "Disconnected / Ragged"
+    },
+    {
+        "description": "Disconnected low pairs",
+        "range": "A955-6322",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "Disconnected / Ragged"
+    },
+    {
+        "description": "Disconnected low pairs",
+        "range": "A955-6322",
+        "position": "BTN",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected mid-low pairs",
+        "range": "99T5-4322",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected mid-low pairs",
+        "range": "99T5-4322",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected mid-low pairs",
+        "range": "99T5-4322",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected mid-low pairs",
+        "range": "99T5-4322",
+        "position": "BTN",
+        "percentage": 0.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Doublepaired Aces",
+        "range": "AAKK-AA22",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Doublepaired Aces",
+        "range": "AAKK-AA22",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Doublepaired Aces",
+        "range": "AAKK-AA22",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Doublepaired Aces",
+        "range": "AAKK-AA22",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Connected broadway doublepairs",
+        "range": "KKQQ-JJTT",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Connected broadway doublepairs",
+        "range": "KKQQ-JJTT",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Connected broadway doublepairs",
+        "range": "KKQQ-JJTT",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Connected broadway doublepairs",
+        "range": "KKQQ-JJTT",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected doublepaired KK and QQ ",
+        "range": "KK99-QQ22",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected doublepaired KK and QQ ",
+        "range": "KK99-QQ22",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected doublepaired KK and QQ ",
+        "range": "KK99-QQ22",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected doublepaired KK and QQ ",
+        "range": "KK99-QQ22",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Connected mid doublepairs",
+        "range": "JJ99-8877",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Connected mid doublepairs",
+        "range": "JJ99-8877",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Connected mid doublepairs",
+        "range": "JJ99-8877",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Connected mid doublepairs",
+        "range": "JJ99-8877",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ds"
+    },
+    {
+        "description": "Disconnected doublepaired JJ and TT",
+        "range": "JJ66-TT22",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected doublepaired JJ and TT",
+        "range": "JJ66-TT22",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected doublepaired JJ and TT",
+        "range": "JJ66-TT22",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected doublepaired JJ and TT",
+        "range": "JJ66-TT22",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected, low-mid doublepairs",
+        "range": "8866-5533",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected, low-mid doublepairs",
+        "range": "8866-5533",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected, low-mid doublepairs",
+        "range": "8866-5533",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected, low-mid doublepairs",
+        "range": "8866-5533",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected low-mid doublepairs",
+        "range": "9966-3322",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected low-mid doublepairs",
+        "range": "9966-3322",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected low-mid doublepairs",
+        "range": "9966-3322",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected low-mid doublepairs",
+        "range": "9966-3322",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Doublepaired Aces",
+        "range": "AAKK-AA22",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Doublepaired Aces",
+        "range": "AAKK-AA22",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Doublepaired Aces",
+        "range": "AAKK-AA22",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Doublepaired Aces",
+        "range": "AAKK-AA22",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected broadway doublepairs",
+        "range": "KKQQ-JJTT",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected broadway doublepairs",
+        "range": "KKQQ-JJTT",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected broadway doublepairs",
+        "range": "KKQQ-JJTT",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Connected broadway doublepairs",
+        "range": "KKQQ-JJTT",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected doublepaired KK and QQ ",
+        "range": "KK99-QQ22",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected doublepaired KK and QQ ",
+        "range": "KK99-QQ22",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected doublepaired KK and QQ ",
+        "range": "KK99-QQ22",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected doublepaired KK and QQ ",
+        "range": "KK99-QQ22",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected doublepaired JJ and TT",
+        "range": "JJ66-TT22",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected doublepaired JJ and TT",
+        "range": "JJ66-TT22",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-ss"
+    },
+    {
+        "description": "Disconnected doublepaired JJ and TT",
+        "range": "JJ66-TT22",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected doublepaired JJ and TT",
+        "range": "JJ66-TT22",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Connected, low-mid doublepairs",
+        "range": "8866-5533",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Connected, low-mid doublepairs",
+        "range": "8866-5533",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Connected, low-mid doublepairs",
+        "range": "8866-5533",
+        "position": "CO",
+        "percentage": 0.5,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Connected, low-mid doublepairs",
+        "range": "8866-5533",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected low-mid doublepairs",
+        "range": "9966-3322",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected low-mid doublepairs",
+        "range": "9966-3322",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected low-mid doublepairs",
+        "range": "9966-3322",
+        "position": "CO",
+        "percentage": 0.5,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Disconnected low-mid doublepairs",
+        "range": "9966-3322",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Connected mid doublepairs",
+        "range": "JJ99-8877",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Connected mid doublepairs",
+        "range": "JJ99-8877",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Connected mid doublepairs",
+        "range": "JJ99-8877",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Connected mid doublepairs",
+        "range": "JJ99-8877",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Doublepaired Aces",
+        "range": "AAKK-AA22",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Doublepaired Aces",
+        "range": "AAKK-AA22",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Doublepaired Aces",
+        "range": "AAKK-AA22",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Doublepaired Aces",
+        "range": "AAKK-AA22",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "1p-rr"
+    },
+    {
+        "description": "Connected broadway doublepairs",
+        "range": "KKQQ-JJTT",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Connected broadway doublepairs",
+        "range": "KKQQ-JJTT",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Connected broadway doublepairs",
+        "range": "KKQQ-JJTT",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Connected broadway doublepairs",
+        "range": "KKQQ-JJTT",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Disconnected doublepaired KK and QQ ",
+        "range": "KK99-QQ22",
+        "position": "LJ",
+        "percentage": 1.0,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Disconnected doublepaired KK and QQ ",
+        "range": "KK99-QQ22",
+        "position": "HJ",
+        "percentage": 1.0,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Disconnected doublepaired KK and QQ ",
+        "range": "KK99-QQ22",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "2p-ds"
+    },
+    {
+        "description": "Disconnected doublepaired KK and QQ ",
+        "range": "KK99-QQ22",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Connected mid doublepairs",
+        "range": "JJ99-8877",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Connected mid doublepairs",
+        "range": "JJ99-8877",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Connected mid doublepairs",
+        "range": "JJ99-8877",
+        "position": "CO",
+        "percentage": 1.0,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Connected mid doublepairs",
+        "range": "JJ99-8877",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Connected, low-mid doublepairs",
+        "range": "8866-5533",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Connected, low-mid doublepairs",
+        "range": "8866-5533",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "2p-ss"
+    },
+    {
+        "description": "Connected, low-mid doublepairs",
+        "range": "8866-5533",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "2p-rr"
+    },
+    {
+        "description": "Connected, low-mid doublepairs",
+        "range": "8866-5533",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "2p-rr"
+    },
+    {
+        "description": "Disconnected low-mid doublepairs",
+        "range": "9966-3322",
+        "position": "LJ",
+        "percentage": 0.0,
+        "type": "2p-rr"
+    },
+    {
+        "description": "Disconnected low-mid doublepairs",
+        "range": "9966-3322",
+        "position": "HJ",
+        "percentage": 0.0,
+        "type": "2p-rr"
+    },
+    {
+        "description": "Disconnected low-mid doublepairs",
+        "range": "9966-3322",
+        "position": "CO",
+        "percentage": 0.0,
+        "type": "2p-rr"
+    },
+    {
+        "description": "Disconnected low-mid doublepairs",
+        "range": "9966-3322",
+        "position": "BTN",
+        "percentage": 1.0,
+        "type": "2p-rr"
+    }
+]
