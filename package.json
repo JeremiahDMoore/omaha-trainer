@@ -2,7 +2,7 @@
   "name": "omaha-trainer",
   "version": "0.1.0",
   "description": "A simple Pot Limit Omaha trainer",
-  "main": "index.js",
+  "main": "server.js",
   
   "private": true,
   "dependencies": {
