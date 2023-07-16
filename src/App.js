@@ -36,6 +36,7 @@ const getColorClass = (percentage) => {
 
   return (
     <div className="display">
+      <h1>Starting Hand Ranges for PLO</h1>
       <div className="button-container">
         <button onClick={() => handleClick('BTN')}>BTN</button>
         <button onClick={() => handleClick('SB')}>SB</button>  

@@ -121,7 +121,7 @@ li {
 .button-container button:nth-child(6) {
   transform: translateX(-50%) rotate(300deg) translateX(125px) rotate(-300deg);
 }
-h2 {
+h1, h2 {
   text-align: center;
 }
 .details {
@@ -137,4 +137,29 @@ h2 {
   font-weight: bold;
   margin-left: 30%;
   text-align: left;
+}
+/*...existing styles...*/
+
+/* Add the following new styles */
+
+/* Style for the white chip */
+.white-chip {
+  position: absolute;
+  bottom: 90%;  /* adjust as needed */
+  left: 20%;  /* adjust as needed */
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  border-radius: 50%;  /* makes it a circle */
+}
+
+/* Style for the red chip */
+.red-chip {
+  position: absolute;
+  bottom: 90%;  /* adjust as needed */
+  right: 20%;  /* adjust as needed */
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  border-radius: 50%;  /* makes it a circle */
 }
