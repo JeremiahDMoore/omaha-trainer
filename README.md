@@ -1,30 +1,42 @@
-# Omaha Trainer
+# Omaha Poker Trainer
 
-Omaha Trainer is a web-based tool designed to help poker players improve their skills in Omaha poker. It provides a user-friendly interface for viewing recommended opening hands based on position and other factors.
+A poker training application designed to help players improve their Omaha poker strategy through interactive exercises and hand analysis.
+
+## Features
+
+- **Hand Evaluation**: Analyze Omaha hands and improve decision-making.
+- **Equity Calculation**: Compute hand equity against opponent ranges.
+- **Custom Training Modes**: Focus on specific aspects of Omaha strategy.
+- **Real-time Feedback**: Get insights on your decisions.
+
+## Technologies Used
+
+- **React**: Frontend framework for UI.
+- **Node.js**: Backend for handling game logic.
+- **Express**: Server framework for API handling.
+- **Poker Hand Evaluator**: Library for hand strength analysis.
 
 ## Installation
 
-To install Omaha Trainer:
+To set up and run Omaha Trainer locally:
 
-1. Clone the repo:
-   ```
+1. **Clone the Repository**:
+   ```bash
    git clone https://github.com/JeremiahDMoore/omaha-trainer.git
-Navigate to the project directory:
-```cd omaha-trainer```
-Install NPM packages:
+   cd omaha-trainer
+   ```
 
-```npm install```
-Usage
-To start Omaha Trainer:
+2. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
 
-```cd server```
-```npm start``` from the server directory.
-```cd ../omaha-trainer```
-```npm start``` from the client directory.
-This will start the application. Open http://localhost:3000 to view it in the browser.
+3. **Run the Application**:
+   ```bash
+   npm start
+   ```
+   The app will be available at `http://localhost:3000`.
 
-Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Acknowledgments
 
-License
-Omaha Trainer is licensed under the MIT License.
+Developed for poker players aiming to sharpen their Omaha strategy.
